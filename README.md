@@ -1,5 +1,5 @@
 # comas
-Decompiled version of CoMaS. Invasive proctoring software that does not disclose what it does properly.
+Decompiled version of CoMaS 0.8.75. Invasive proctoring software that does not disclose what it does properly.
 
 CoMaS stores the client encrypted on disk.
 It decrypts it to a temp file before launch, and deletes itself when CoMas is exited. By running CoMas, and observing the temp folder seeing which files were created, I was able to find the decrypted version. 
