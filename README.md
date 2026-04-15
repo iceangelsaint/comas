@@ -9,6 +9,7 @@ Funny that they would encrypt the file but have ZERO obfuscation, especially for
 Notable behaviours:
 
 -   It reads your browser histories (Chrome, Firefox, Edge, Opera, Vivaldi, Brave). This means that tabs accessed on other devices CAN be read if you're using the same account.
+    - AppData\Local\Google\Chrome\User Data\Default\History for example on Windows devices. It is an sqlite database that stores every single action you have done on Google Chrome. That website you visited 3 years ago? CoMas saw it. The same is true for other browsers
     
     -   This is concerning as shared devices (family members) history would show up through CoMas. What if they open a banking app? Or what if they are opening sensitive websites that they don't want others to see?
         
