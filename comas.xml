@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>CoMaS server locations. DO NOT EDIT</comment>
+<entry key="comas.1">comas-home.cogerent.com</entry>
+<entry key="comas.2">comas.cogerent.com</entry>
+<entry key="comas.3">comas-local.cogerent.com</entry>
+<entry key="comas.4">comas-master.cogerent.com</entry>
+<entry key="comas.5">comas-its2.cogerent.com</entry>
+<entry key="comas.6">comas-its4.cogerent.com</entry>
+<entry key="comas.7">comas-its.cogerent.com</entry>
+<entry key="comas.8">comas-its3.cogerent.com</entry>
+</properties>

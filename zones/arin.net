@@ -1,0 +1,15 @@
+$TTL    60
+$ORIGIN arin.net.
+@    IN    SOA    ns1.arin.net. admin.arin.net. (
+                  241
+             604800
+              86400
+            2419200
+              60 )
+
+@                  IN NS ns1.arin.net.
+@                  60 IN A 192.168.2.21
+ns1.arin.net.   60 IN A 192.168.2.21
+
+whois.arin.net.                60 IN A  199.71.0.46
+

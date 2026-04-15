@@ -1,0 +1,15 @@
+$TTL    60
+$ORIGIN casso.ca.
+@    IN    SOA    ns1.casso.ca. admin.casso.ca. (
+                  735
+             604800
+              86400
+            2419200
+              60 )
+
+@                  IN NS ns1.casso.ca.
+@                  60 IN A 172.67.13.17
+ns1.casso.ca.   60 IN A 172.67.13.17
+
+www.casso.ca.                60 IN A  104.22.51.217
+

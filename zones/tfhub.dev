@@ -1,0 +1,14 @@
+$TTL    60
+$ORIGIN tfhub.dev.
+@    IN    SOA    ns1.tfhub.dev. admin.tfhub.dev. (
+                  682
+             604800
+              86400
+            2419200
+              60 )
+
+@                  IN NS ns1.tfhub.dev.
+@                  60 IN A 142.251.41.46
+ns1.tfhub.dev.   60 IN A 142.251.41.46
+
+

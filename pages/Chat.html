@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<title>CoMaS Chat</title>
+</head>
+<body onunload="wsCloseConnection()">
+<div style="text-align:center">
+	<h1 id="h1">CoMaS Chat</h1>
+	<h3 id="connection-status"></h3>
+	<br>
+	
+	    <div id="container" class="w3-container w3-border" style="height:500px;padding:10px;width:50%;margin:auto;overflow:auto;overflow-y:scroll">
+		</div>
+		<br>
+		<input id="message" type="text" size="80" autofocus>
+		&nbsp;
+		<input accesskey="s" id="sendButton" class="w3-button w3-round w3-blue" onclick="wsSendMessage();" value="Send" type="button">
+		<br/>
+		<br/>
+		<input accesskey="h" id="homeButton" class="w3-button w3-round w3-blue" onclick="goTo('/home');" value="Home" type="button">
+		&nbsp;&nbsp;&nbsp;&nbsp;
+		<input accesskey="q" id="quitButton" class="w3-button w3-round w3-blue" onclick="goTo('/quit');" value="Quit" type="button">
+		<br/>
+</div>
+
+		<dialog style="width:25%" id="alertDialog">
+		<button class="close" onclick='alertDialog.close();'>x</button>
+		<div id="msg">Your session has ended</div>
+		<style>
+			.close {
+				color: #aaa;
+				float: right;
+				font-size: 16px;
+				margin: 5px;
+			}
+			.close:hover,
+			.close:focus {
+				color: black;
+				text-decoration: none;
+				cursor: pointer;
+			}
+			</style>
+		</dialog>
+	
+	<script type="text/javascript">
+		var pingTimer;
+		var socketTimer;
+		var context;
+		var webSocket = null;
+		var done = false;
+		const connectionStatus = document.getElementById("connection-status");
+		const table = document.getElementById("container");
+		const h1 = document.getElementById("h1");
+		const sendButton = document.getElementById("sendButton");
+		sendButton.disabled = true;
+		const message = document.getElementById("message");
+		// Enter key to emulate the Send button?
+		//message.addEventListener("keydown", function(event) {
+		//	if (event.key === "Enter") {
+		//		event.preventDefault();
+		//		wsSendMessage();
+		//	}
+		//});
+		var hasFocus = false;
+		var changed = false;
+		var title;
+		
+		window.addEventListener('focus', function (event) {
+			hasFocus = true;
+			message.focus();
+			if (changed && webSocket !== null) {
+				wsRead();
+				document.title = title;
+			}
+		});
+		window.addEventListener('blur', function (event) {
+			hasFocus = false;
+		});
+		document.addEventListener('visibilitychange', function() {
+  			hasFocus = !document.hidden;
+		});
+		
+		function setupTitleAndHeader() {
+			h1.innerHTML = "CoMaS Chat: "+context.name+" for "+context.course+"/"+context.activity;
+			title = "CoMaS Chat: "+context.name+" (" + context.id + ")";
+			document.title = title;
+		}
+		
+		function wsOpen(message){
+			connectionStatus.innerHTML = "\u2705 Connected to "+context.host;
+			sendButton.disabled = false;
+		}
+		
+		function wsSendMessage(){
+			if (webSocket === null || webSocket.readyState !== webSocket.OPEN) {
+				alertWithTimeout("Sorry, you are disconnected at present", 5000);
+				return;
+			} 
+
+			if (done) {
+				alertWithTimeout("Your session has now ended", 5000);
+				return;
+			}
+			var d = new Date();
+			var time = formatTime(d);
+			var msg = {
+				"to": "administrators", 
+				"from": context.me, 
+				"type": "chat", 
+				"content" : {
+					"content" : message.value + " [" + time + "]", 
+					"email" : context.email,
+					"time" : time,
+					"contentType" : "message",
+				}
+			};
+			
+			if (message.value.length > 0) {
+				webSocket.send(JSON.stringify(msg));
+				addRow(message.value + " [" + time + "]", 'w3-tag w3-green w3-round', 'w3-left-align');
+				message.value = "";
+			} else {
+				alertWithTimeout("No message text has been provided", 5000);
+			}
+		}
+		
+		function wsPing() {
+		    if (webSocket === null || webSocket.readyState !== webSocket.OPEN || done)
+                return;
+			let d = new Date();
+			let time = formatTime(d);
+			var msg = {
+				"to": "administrators", 
+				"from": context.me, 
+				"type": "ping", 
+				"content" : {
+					"content" : "[" + time + "]"
+				}
+			};
+			webSocket.send(JSON.stringify(msg));
+		}
+		
+		function wsRead() {
+			let d = new Date();
+			let time = formatTime(d);
+			var msg = {
+				"to": "administrators", 
+				"from": context.me, 
+				"type": "chat", 
+				"content" : {
+					"content" : "\u2705 [" + time + "]",
+					"email" : context.email,
+					"time" : time,
+					"contentType" : "read"
+				}
+			};
+			webSocket.send(JSON.stringify(msg));
+			changed = false;
+		}
+		
+		function wsCloseConnection(){
+			done = true;
+			if (webSocket != null) {
+				webSocket.close();
+			}
+		}
+		
+		function wsGetMessage(message){
+			var data = JSON.parse(message.data);
+			if (data.type == "stop") {
+			    if (confirm("Your session is over. Please close chat window.")) {
+			    	wsCloseConnection();
+				    window.close();
+				}
+			} else {
+				if (data.type == 'info')
+					row = data.content.content;
+				else
+					row = data.from+":"+data.content.content;
+				addRow(row, 'w3-tag w3-orange w3-round', 'w3-right-align');
+				if (hasFocus) {
+					wsRead();
+				} else {
+					changed = true;
+					document.title = "🟢" + title;
+				}
+			}
+		}
+		
+		function goTo(location) {
+			wsHostCheck(false);
+			if (!done) {
+				try {
+					window.location.assign(location);
+				} catch (error) {
+					alertWithTimeout("Your session has now ended", 5000);
+				}
+			}
+		}
+		
+		function wsHostCheck(check) {
+			if (done)
+				return;
+			const err = new XMLHttpRequest();
+			var erf = function() {
+				alertWithTimeout("Your session has now ended", 5000);
+				sendButton.disabled = true;
+				document.title = "CoMaS Session Ended";
+			};
+			err.onerror = erf;
+			err.ontimeout = erf;
+			err.onabort = erf;
+			err.onreadystatechange = function() {
+				if (this.readyState === 4) {
+					if (this.status === 200) {
+						var new_context = JSON.parse(this.response);
+						new_context.me = new_context.name.replace(/ /g,"-")+'-'+new_context.id;
+						if (typeof context !== 'undefined') {
+							if (new_context.host !== context.host) {
+								alertWithTimeout("Your server has changed to "+new_context.host, 5000);
+								done = true;
+								location.reload();
+							} else if (check && confirm("Is another chat window open?")) {
+								done = true;
+								window.close();
+							}
+						}
+						context = new_context;
+						setupTitleAndHeader();
+					} else if (this.status === 503 || this.status === 404) {
+						done = true;
+						window.close();
+					}
+					
+				}
+			}
+			err.open("GET", "/host", false);
+			err.send();
+		}
+		
+		function wsClose(message){
+			connectionStatus.innerHTML = "\u274C Disconnected from "+context.host;
+			sendButton.disabled = true;
+			webSocket = null;
+			wsHostCheck(true);
+		}
+		
+		function wsError(message){
+			connectionStatus.innerHTML = "\u2757 Connection error for "+context.host;
+			sendButton.disabled = true;
+			webSocket = null;
+		}
+		
+		function addRow(message, sclass, dclass) {
+			var row = document.createElement('div');
+			row.setAttribute('class', dclass);
+            var cell = document.createElement('p');
+            var span = document.createElement('span');
+            span.setAttribute('class', sclass);
+            var msg = document.createTextNode(message);
+            span.appendChild(msg);
+            cell.appendChild(span); 
+            row.appendChild(cell);
+            table.appendChild(row);
+            row.scrollIntoView( { behavior: "smooth", block: "end" });
+		}
+		
+		function formatTime(date) {
+		    const formattedHours = String(date.getHours()).padStart(2, '0');
+    		const formattedMinutes = String(date.getMinutes()).padStart(2, '0');
+    		const formattedSeconds = String(date.getSeconds()).padStart(2, '0');
+
+    		return `${formattedHours}:${formattedMinutes}:${formattedSeconds}`;
+		}
+		
+		function alertWithTimeout(msg, duration) {
+			document.getElementById('msg').innerText = msg;
+			alertDialog.showModal();
+			setTimeout(function() { alertDialog.close(); }, duration);
+		}
+
+		function webSocketCheck() {
+			if (webSocket == null && !done) {
+				wsHostCheck(false);
+				webSocket = new WebSocket(context.ws_protocol+"://"+context.host + ":"+context.port+"/WebSocket/chat/"+context.course+"/"+context.activity+"/"+context.me+"/"+context.password);
+				webSocket.onopen = wsOpen;
+				webSocket.onmessage = wsGetMessage;
+				webSocket.onclose = wsClose;
+				webSocket.onerror = wsError;
+			}
+		}
+		hasFocus = !document.hidden;
+		window.addEventListener("beforeunload", wsCloseConnection);
+		webSocketCheck();
+		setupTitleAndHeader();
+		socketTimer = setInterval(webSocketCheck, 5000);
+		pingTimer = setInterval(wsPing, 20000);
+		message.focus();
+	</script>
+</body>
+</html>

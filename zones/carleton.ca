@@ -1,0 +1,27 @@
+$TTL    60
+$ORIGIN carleton.ca.
+@    IN    SOA    ns1.carleton.ca. admin.carleton.ca. (
+                  578
+             604800
+              86400
+            2419200
+              60 )
+
+@                  IN NS ns1.carleton.ca.
+@                  60 IN A 192.168.2.21
+ns1.carleton.ca.   60 IN A 192.168.2.21
+
+cufed.carleton.ca.                60 IN A  134.117.206.152
+
+library.carleton.ca.                60 IN A  134.117.10.38
+
+brightspace.carleton.ca.                60 IN A  3.98.175.20
+
+proxy.library.carleton.ca.                60 IN A  134.117.10.200
+
+login.proxy.library.carleton.ca.                60 IN A  134.117.10.200
+
+edu.knotia.ca.proxy.library.carleton.ca.                60 IN A  134.117.10.200
+
+edu-knotia-ca.proxy.library.carleton.ca.                60 IN A  134.117.10.200
+

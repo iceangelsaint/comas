@@ -1,0 +1,17 @@
+$TTL    60
+$ORIGIN knotia.ca.
+@    IN    SOA    ns1.knotia.ca. admin.knotia.ca. (
+                  76
+             604800
+              86400
+            2419200
+              60 )
+
+@                  IN NS ns1.knotia.ca.
+@                  60 IN A 104.22.67.200
+ns1.knotia.ca.   60 IN A 104.22.67.200
+
+edu.knotia.ca.                60 IN A  172.67.31.178
+
+www.knotia.ca.                60 IN A  172.67.31.178
+

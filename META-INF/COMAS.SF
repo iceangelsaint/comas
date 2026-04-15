@@ -1,0 +1,1825 @@
+Signature-Version: 1.0
+Created-By: 11.0.12 (Eclipse Foundation)
+SHA-256-Digest-Manifest: f/4AYIJF6iMch71SUH5z1JYTTtg+Y5PLqxmvJs2XVbM=
+SHA-256-Digest-Manifest-Main-Attributes: tNEE8QorSgze1OMrRgbC3H9xCb6FYYD
+ Ob0KxS6FmL94=
+
+Name: edu/carleton/cas/resources/WindowsNetworkTask.class
+SHA-256-Digest: k4/Hw3H/Z1r3WdHHvFVQsNY11kSEVaL3cd6pN7+Id4k=
+
+Name: jersey-container-servlet-core.jar
+SHA-256-Digest: MRcqYgt5bf+COw0BylJiw86bWxrl5QNTpdLW+TUFH2s=
+
+Name: edu/carleton/cas/background/SessionConfigurationModeMonitor$DNSDom
+ ainServerCheckTask.class
+SHA-256-Digest: sxj0QHpv3WysoiZAC2DKcJaL9iZlPM4XVuyYnIShYpw=
+
+Name: edu/carleton/cas/jetty/embedded/ServletProcessor$FolderServlet.cla
+ ss
+SHA-256-Digest: g6BuHipI0TdWE5XuWqFceNoMu2bwMb2e+VPqoV1//Ro=
+
+Name: edu/carleton/cas/messaging/handlers/RestartSessionMessageHandler.c
+ lass
+SHA-256-Digest: TrpJQuPrvGAmx5P6q4tJhhd5ZkWGBYBhHdQJxitjAKc=
+
+Name: edu/carleton/cas/background/SessionConfigurationModeMonitor$Virtua
+ lMachineCheckTimeoutTask.class
+SHA-256-Digest: ReqX2B3QGQQFG+sG47dY1Of1QtxLEOQ8LMLXV2lKKcs=
+
+Name: edu/carleton/cas/messaging/handlers/AlertMessageHandler$AlertRecor
+ d.class
+SHA-256-Digest: Y7TEA7dF0+VGIh16IVvfJQ47GlcsmR7ny42WeWFYTJI=
+
+Name: edu/carleton/cas/messaging/handlers/ScreenShotFrequencyMessageHand
+ ler.class
+SHA-256-Digest: 40jP/3mBuYuqMX4zvzG5XoIc9Tk594Tw5ipLinrXb/U=
+
+Name: edu/carleton/cas/reporting/ReportManager$ProblemCategory.class
+SHA-256-Digest: 0BPM1D/fn3IhkUevS6Jeie2sB4s5sWYHSj2ntZO5pL8=
+
+Name: edu/carleton/cas/resources/Logger.class
+SHA-256-Digest: FJEjLeww89hGiTprHX0Ldkhfe7geF7DaMul9KZ55w/M=
+
+Name: edu/carleton/cas/jetty/embedded/ProgressServlet$ProgressTimer.clas
+ s
+SHA-256-Digest: lSxdxlPV3GMYGte+lE3XhTwJGWHrYAHdGPyR/d/0oGo=
+
+Name: edu/carleton/cas/jetty/embedded/EmbeddedWebcamServlet.class
+SHA-256-Digest: JEH968K3H8izVIFNLzMVqWPvItZnitbaqmExCJsawK4=
+
+Name: websocket-javax-common-10.0.24.jar
+SHA-256-Digest: p/panvK+a6YAU/KA3f4lqV1Hfsdt/D/FIWe+Rt7Ppc0=
+
+Name: jakarta.activation-api-1.2.1.jar
+SHA-256-Digest: yJRWq5WoLScDJ7HW2XXS5iRGj8/+8jlMjIWn3XyWudE=
+
+Name: edu/carleton/cas/constants/ClientShared.class
+SHA-256-Digest: 7BCpNldmmM8kQM4AMKtKPBSIht55JCWTDMYP4q56P1E=
+
+Name: edu/carleton/.DS_Store
+SHA-256-Digest: tlP71IWjE7o1RZwt5jKyqaPIcWLOv5iPs2UDeltqOAM=
+
+Name: mime.types
+SHA-256-Digest: VvvGrvIkT0m5zr4vfilLbua5LBzbwhS04WQS4MczLpY=
+
+Name: edu/carleton/cas/jetty/embedded/ServletProcessor$ApplicationResour
+ ceServlet.class
+SHA-256-Digest: T0rQa58MK6vYMhACqTirxk3/jEd4FhrSsQSyxCLz7bM=
+
+Name: edu/carleton/cas/reporting/ReportManager$ProblemProcessor$2.class
+SHA-256-Digest: Eb6ykDSJIrNcmilz/h1AaZgE/QQ78z0MA9UlPd7iopM=
+
+Name: images/warning-icon-96x96.png
+SHA-256-Digest: xQSv9BoVy9SAeVFGWH+KtmOmzRV/pSfpOIhvqvH7kvg=
+
+Name: jetty-servlet-10.0.24.jar
+SHA-256-Digest: 817TsSM7+Rua38n/S0NxmcpIwdoE01XL8RfFbkwjW1M=
+
+Name: dnsjava-3.5.2_2.jar
+SHA-256-Digest: /pxZerafsCI5+QOaJdgS4QlhK90nzoqT35HOXE1FEvs=
+
+Name: se/unlogic/eagledns/zoneproviders/db/DBZoneProvider.class
+SHA-256-Digest: /Wq6G1bzS2m1ZeHZJ4/98UVMyUUQth4FqAUcQHlfHCE=
+
+Name: edu/carleton/cas/exam/Invigilator$5.class
+SHA-256-Digest: Xw0goUpsLaddMtRSWy12rXKbQzeTLpuBX4LFRJ9ZX2Q=
+
+Name: edu/carleton/cas/utility/JpegImagesToMovie$ImageSourceStream.class
+SHA-256-Digest: obbD9ZgBl6TE/38uzCF2ql+hgpEUQY759vCWi4Gp4Qw=
+
+Name: se/unlogic/eagledns/resolvers/ForwardingResolver.class
+SHA-256-Digest: sffpl9lmkYUtJkIudrirFv0Qg/fPh1WWxFCcCSsV768=
+
+Name: configuration/config.xml
+SHA-256-Digest: +73OX/+BM04OI0NnuwRZde/OModpLcDFv3Uka74RF6U=
+
+Name: zones/exlibrisgroup.com
+SHA-256-Digest: qWaVkciIJys0aUFFIk/maeu3UjWDTqjezDqqBhgqJdU=
+
+Name: edu/carleton/cas/resources/FileSystemMonitor$2.class
+SHA-256-Digest: BXdlEpHyk+SDWVShC56GUOwcb4p2pOiKA1PKU8gr0zs=
+
+Name: edu/carleton/cas/security/UniqueDigits.class
+SHA-256-Digest: Jg/ltTvcjB7iFqSFTk47MxsZXLpxI0dLXBbFcHRwr7U=
+
+Name: hk2-locator-2.5.0.jar
+SHA-256-Digest: AlQfFQT7xUtVoHf2BMlqR/g4LSpzIrBqwm3oBDyFYnk=
+
+Name: edu/carleton/cas/background/Harvester$1.class
+SHA-256-Digest: zgqKc7lkIkLbYZ5qFgjlOpER4u7RIwwXf777TLGerAs=
+
+Name: images/social-sharing-icon-72x72.png
+SHA-256-Digest: yb8SQ4gTbBakTX14GAAtqFyl51uvv5V/062JV88hwwE=
+
+Name: edu/carleton/cas/jetty/embedded/TerminateServlet$1.class
+SHA-256-Digest: 9+qsP/M0Zxc/PwuMluxu6Z6SULzGRnXhwkp/faQm4pM=
+
+Name: se/unlogic/eagledns/zoneproviders/db/beans/DBZone.class
+SHA-256-Digest: yDKBTjP3LPeTIfhftJD2/Erzx5YnRgDX/ZwV7BObaec=
+
+Name: org/encryptor4j/factory/EncryptorFactory.class
+SHA-256-Digest: gUPOCfhRPmA4RKIltWusZn1inIYpYbJGCm/zXv5gnGk=
+
+Name: edu/carleton/cas/messaging/handlers/ReportAnnotationMessageHandler
+ .class
+SHA-256-Digest: P4ituHvkJVU6UR8vY9eI5ObQvT+1Lj8mSIYFUzeir1U=
+
+Name: yasson-1.0.3.jar
+SHA-256-Digest: WHWw1Cen4CzFRD52HC/p+eOULvqqunZnB8cjwJDTGDs=
+
+Name: edu/carleton/cas/utility/Displays.class
+SHA-256-Digest: r4w4aIwPXKtSnPkSr8GW3snJbej28BO313j02d1OjYg=
+
+Name: resolutions.txt
+SHA-256-Digest: iubjyfgRc+v6fYPpgJVPztW4O3Yy/sPLSZutF9MscEk=
+
+Name: zones/brightspace.com
+SHA-256-Digest: lXNRGD7WiKWqofrYhROj02jmPMzQJH5tRcdg9ZFpatc=
+
+Name: edu/carleton/cas/jetty/embedded/processors/TextRenderer.class
+SHA-256-Digest: V78Lkbv8YlRloE9xcBeDvf/C1ZDtChgtf2oAXtBb39U=
+
+Name: images/warning-icon-32x32.png
+SHA-256-Digest: jmE8TetS+HeDV3CR1SHO2hOqczIJ/VmfXzLLUVt097c=
+
+Name: edu/carleton/cas/jetty/embedded/EndedServlet.class
+SHA-256-Digest: nF20/L8zULSvIsdTZhXK5Vjt3FYp9LpRkPhEo3e6lhE=
+
+Name: edu/carleton/cas/jetty/embedded/processors/ContentRenderer.class
+SHA-256-Digest: 1jOopy1Hpfm/jJCVPYx4mRD9fmEZHSLTiPkobB+4Sas=
+
+Name: se/unlogic/eagledns/TCPConnection.class
+SHA-256-Digest: 54ShS5evEj5UBiKk1ZjdfFzfytRtYAjuXldzGlefliM=
+
+Name: com/cogerent/utility/Temporal.class
+SHA-256-Digest: tHNfYxmDXFlRRXb9XVRDEG5oVPaWj8n16daiyibNPlI=
+
+Name: jakarta.json-1.1.5.jar
+SHA-256-Digest: +aXPY1BCBOdw7pgFrRZA1/sjnjrTCl+ozxuMSW6uDX0=
+
+Name: images/id-small.png
+SHA-256-Digest: YOrgRp/Mlk9YH0+Ey0wc4+yNvRpMKvUNFwJ2/bLLe0c=
+
+Name: edu/carleton/cas/file/DirectoryUtils$4.class
+SHA-256-Digest: Hzq08qjg3r4WhtRsVjJUe1+bLuST0dHqNa+P4enf2eM=
+
+Name: edu/carleton/cas/resources/PrinterManagerFactory.class
+SHA-256-Digest: wYpNluEsPNrMygUHaNbgQFkL8w4IrqEMhs5R5uOICT0=
+
+Name: edu/carleton/cas/utility/WindowsRegistry$StreamReader.class
+SHA-256-Digest: Ku6bPahLnWIxJo/QLm10k6WFXtqIGXWqmfOK7GmE17M=
+
+Name: edu/carleton/cas/jetty/embedded/GazeServlet.class
+SHA-256-Digest: g/1e6V1kLVX4YJsv9Chw7u0G0tH4X7KbNM1Li0w5DWs=
+
+Name: edu/carleton/cas/ui/WebDialog$2.class
+SHA-256-Digest: eGqWsobbqUE7R+vTHkfVCZ8xkolplcBevbZ6daLEmZI=
+
+Name: edu/carleton/cas/resources/HardwareAndSoftwareMonitor$Action.class
+SHA-256-Digest: 3qCXcFb+Q/cFs+Vf4Cwbq4txvj1HkJrt/nSvOAMcN1Q=
+
+Name: edu/carleton/cas/jetty/embedded/ServletProcessor$TestServlet.class
+SHA-256-Digest: xvbzTVi3OBIpIKfJqn8+BS18si9Z/1JIBSjILRQUD30=
+
+Name: edu/carleton/cas/ui/WebAlert$2.class
+SHA-256-Digest: QVEUCJ5JVHYreh/V6x9Ra/nqa4norvc1wKhe3queBlc=
+
+Name: edu/carleton/cas/dao/CourseActivity.class
+SHA-256-Digest: xqRhcQBRRmbz5lcwsd1WmXWauUS0yuZLDRoQCEPqDK0=
+
+Name: edu/carleton/cas/messaging/MessageEncoder.class
+SHA-256-Digest: ExoOudxf6oxBJ16tU0C7dZORbdaE14GSdAntVGGaKgs=
+
+Name: jakarta.xml.bind-api-2.3.2.jar
+SHA-256-Digest: anitoW2xqVegy4E4pxsYoAhcRsdXmHRr/WLANhLkjDc=
+
+Name: edu/carleton/cas/reporting/ReportManager$DefaultProcessor.class
+SHA-256-Digest: RHz8kRoUcsqH4pHESlT4Gpf8pQ0/VCNdiuvK2pUc9/w=
+
+Name: edu/carleton/cas/jetty/embedded/EmailLoginServlet.class
+SHA-256-Digest: nzzy9IYd3KJeHNy7pqC8sRaMNbxhJW9KHwQWjxWHf3A=
+
+Name: edu/carleton/cas/resources/HardwareAndSoftwareMonitor$OSProcessAct
+ ion$1.class
+SHA-256-Digest: 0qZjOH+YAIgbNktl4+eFMy+yPargHG6el1ACtHOJIUg=
+
+Name: edu/carleton/cas/jetty/embedded/WebcamServlet$WebcamTimer.class
+SHA-256-Digest: uY+iZxj+OP8y5dvaOum1c7AJeH81qv3Poa/ixAQKcps=
+
+Name: se/unlogic/eagledns/test/ZoneDissasembler.class
+SHA-256-Digest: jrrBaSIkOKMBIJAAKmm8ckFFWGjKXHev6bS8+k9P/oI=
+
+Name: jakarta.persistence-api-2.2.2.jar
+SHA-256-Digest: ywj3zL5tBWB/FrxERYzkllhoOXn8L9rIQ6n5jXU0k70=
+
+Name: edu/carleton/cas/utility/InsecureTrustManager.class
+SHA-256-Digest: JFYr0vQs2/JwEfULQwjNAf4T1e2NNnss/fQsRFSZVtQ=
+
+Name: edu/carleton/cas/background/KeepAliveSentinel$PowerCheckTask.class
+SHA-256-Digest: w2vEvGVrRNEnDLCVwjxqL0W+vEblW75cYvm7cLYUwCc=
+
+Name: edu/carleton/cas/reporting/ReportManager$EventProcessor.class
+SHA-256-Digest: SKMenjF2+LhHhtuT2WbeQY0ROkVIQuH2CAxsbVa6KcI=
+
+Name: images/warning-icon-128x128.png
+SHA-256-Digest: 6r07SFK2yndKiaIYCK4Doz7ODpWk4vNvHB2Fz7fq8iY=
+
+Name: com/cogerent/launcher/LauncherChecker$1.class
+SHA-256-Digest: nJ+yF/jnMf0kJ2BKkF7l9TY+oVy16RAK5FgaLNf1c0k=
+
+Name: edu/carleton/cas/security/IllegalVersionException.class
+SHA-256-Digest: 9wy9my+mBekHRpoUnWclLMZCnhywtds8PETwplQouPk=
+
+Name: edu/carleton/cas/file/DirectoryUtils$2.class
+SHA-256-Digest: Vph4nnwxPuZgTkmMoZgL+XQuHjOaTedeBGZymceSmVY=
+
+Name: com/cogerent/dns/DNSConfiguration.class
+SHA-256-Digest: 1JZToGlw1eJp1slkBoAwVe3mge7Y6ctkNh4nZr/cK2w=
+
+Name: edu/carleton/cas/ui/PasswordDialog$1.class
+SHA-256-Digest: reSx9oSop6igL/vf4n5MgjscDuoUKrZQUTyQsvdpKyA=
+
+Name: se/unlogic/eagledns/plugins/QueryStatsPlugin.class
+SHA-256-Digest: bROyD3ebOo4EEj/QhTuR4p2lnToYy5QYxsgovioI3lw=
+
+Name: zones/cogerent.com
+SHA-256-Digest: 7upxPXidOIn4rmfTIJ0ey15S0BprZQynbYbWDGXjhEo=
+
+Name: edu/carleton/cas/reporting/ReportManager$AnnotationProcessor.class
+SHA-256-Digest: K8moeW4Zw8gxk7DTg9yplRpbdxGeCKHDlApWXWjsJsU=
+
+Name: validation-api-2.0.1.Final.jar
+SHA-256-Digest: vvqnlC/4uzgbfSG1VnldJYz8+3ZpjImob7hhjBNdK8U=
+
+Name: hk2-utils-2.5.0.jar
+SHA-256-Digest: NRB7vwUuK+NQJEupJlCNVcVpodI4v/utekktY+wAdNg=
+
+Name: jakarta.inject-2.5.0.jar
+SHA-256-Digest: ajzPqD6IHYjqOPu+EWAXJ2CJu2KT+jsSz+WASOD1HaE=
+
+Name: edu/carleton/cas/messaging/handlers/PingMessageHandler.class
+SHA-256-Digest: wRJXtd+/vS5UBgqWll/m4MqA/oYXDggJHqfLGPNyOAc=
+
+Name: edu/carleton/cas/resources/IpV6ROutputProcessor.class
+SHA-256-Digest: 2K2cl2xqi8gq9kk/vBeadebF7qqyilThzfgWArXQhfA=
+
+Name: org/encryptor4j/factory/DESEncryptorFactory.class
+SHA-256-Digest: bsYXruh02jdnjchusKls8+hvxSbvRz/tRugzw9TorQI=
+
+Name: se/unlogic/eagledns/plugins/remotemanagement/EagleManagerClient.cl
+ ass
+SHA-256-Digest: QUSiBNwkFhEL2unJmDLQD9bEuq3fTyagy0hOiQs98l0=
+
+Name: edu/carleton/cas/jetty/embedded/ServletProcessor$1.class
+SHA-256-Digest: +tijxJN+5U6kz+y3kGYglKdJvZ8oSL0iTMhxqxI6NCA=
+
+Name: com/cogerent/dns/DNSConfiguration$ZoneUpdate.class
+SHA-256-Digest: DShwVRphx+EeZuYmmpX+7kRf20VKQXsVFLM1A8kXjqA=
+
+Name: edu/carleton/cas/resources/HardwareAndSoftwareMonitor$ProcessCompa
+ ratorByUserID.class
+SHA-256-Digest: O9SVDgw4VUUyyhZANUhdQiN1pw9kjapTz48mO5uzA2Q=
+
+Name: conf/config.xml
+SHA-256-Digest: ccBaBg958uIUxOEygdZYD2T4NUTGKkTVBsvzzosMSUs=
+
+Name: se/unlogic/eagledns/SystemInterface.class
+SHA-256-Digest: GHYYn/R1gTP7ujUSnuEogTft4Y9XOXu1yJ9l8lZf0jk=
+
+Name: edu/carleton/cas/reporting/ReportManager.class
+SHA-256-Digest: TpW+q3VeME6EqiKyor4mTcv4xtCFLOi5B6bixO+Jm3U=
+
+Name: edu/carleton/cas/utility/MacAddress.class
+SHA-256-Digest: Gu9GL6eXj7S/01zEqGamTE6P7/Ea3Ew3MqglI04xbc8=
+
+Name: zones/bootstrapcdn.com
+SHA-256-Digest: kSqk8DDWiZjpsCx2SWfgWr79kmSRVuh3DuDhkCVs/wU=
+
+Name: edu/carleton/cas/messaging/handlers/AlertMessageHandler.class
+SHA-256-Digest: GrW8pX8sugYVi+wtYMw4zPEEOiIDf24w2k1WZyCWFSg=
+
+Name: edu/carleton/cas/jetty/embedded/GazeServlet$Category.class
+SHA-256-Digest: sY17ytwXiRdEYY/f4OESE/E7ps9YqVOOB7Af6vcWNSM=
+
+Name: edu/carleton/cas/messaging/handlers/ProcessMessageHandler.class
+SHA-256-Digest: H2AKIO02MDPfwDwObbVBasagbWZC1ksLW1/q+P/51y4=
+
+Name: edu/carleton/cas/messaging/handlers/ScreenShotMessageHandler.class
+SHA-256-Digest: 7RlBJJONKx7buJJyilDxDl8y+lykU5mtERu0coGqnj8=
+
+Name: edu/carleton/cas/resources/PasswordOutputProcessor.class
+SHA-256-Digest: ucDBQKOMW44tVr66XmD+MJ9qGZ8nGQFOtTa4nmrEvlc=
+
+Name: edu/carleton/cas/ui/WebAlert.class
+SHA-256-Digest: 3oQmmoWRpZLaYjegrt+8cwuhf9+b7pEGUNv9YOKPQ9w=
+
+Name: com/cogerent/utility/PropertyValue.class
+SHA-256-Digest: PfGNfjIAZpckd8jnoDNcTGOzAMm8BZKtdYCPVNVISYA=
+
+Name: images/warning-icon-48x48.png
+SHA-256-Digest: gv4m3kDyywnaPMtgy6zqpYYrvokwFpQTpBkIp6u5icg=
+
+Name: edu/carleton/cas/modules/foundation/JarClassLoader.class
+SHA-256-Digest: +sCgzkQ2N0O1g+vxHy0sZq1PqTyMjl6FwdiEM42tpZs=
+
+Name: edu/carleton/cas/modules/foundation/ModuleContainer.class
+SHA-256-Digest: R8GI68RRc5n/fFWHb+5TJx01Dyv2D75n4lyBu+lT2Ys=
+
+Name: edu/carleton/cas/utility/DNSCacheFlusherCmd.class
+SHA-256-Digest: /THPj5vcX/LN7jpJWPEU4gXKBW5bL9eonS0eAwWZpGY=
+
+Name: sqlite-jdbc-3.50.2.0.jar
+SHA-256-Digest: YRIytfEPreRPCd2yUhukRUav6UgvjfZ9W0PqeicKSiY=
+
+Name: edu/carleton/cas/file/Utils.class
+SHA-256-Digest: Gr3flHcrr8nsGNnDRnTP/WpjQdl2lsQrYwG1nKJ7SMg=
+
+Name: com/cogerent/dns/DNSLookup.class
+SHA-256-Digest: nr5ZsmIfggejS/uiMO0S3ZPJSKOsnRcnwTAZVa77NTk=
+
+Name: edu/carleton/cas/jetty/embedded/HostServlet.class
+SHA-256-Digest: I1PBf/Wx1e6tgjyCZwyqm7woSUKrmZ1oKjs9EJI3QOE=
+
+Name: se/unlogic/eagledns/plugins/zonereplicator/ReplicationResponse.cla
+ ss
+SHA-256-Digest: 9ixh/qOIWtkXkClAphJbkSUAspDJ5KqOLuq1Hx0hhpw=
+
+Name: edu/carleton/cas/background/SessionConfigurationModeMonitor$1.clas
+ s
+SHA-256-Digest: zqKFSIvBtXBunZ5G0fBWA4CrOGS/0bgD8kFjmfhxQt0=
+
+Name: com/cogerent/detector/DisplayDetectorPro.class
+SHA-256-Digest: qRr1qYhhSDx5v5WziocPqTnFctmm9j1DZzmwkd1d8E0=
+
+Name: com/cogerent/utility/CircularBuffer.class
+SHA-256-Digest: cNxxI0geMYA1hPIdyUt9ExiloCfESAwtrHCqw/yYGKE=
+
+Name: edu/carleton/cas/jetty/embedded/IDVerificationServlet.class
+SHA-256-Digest: /BwDmU8cbboyLRrQqRqDwoVHbUCtJY/jysFMSupImtc=
+
+Name: edu/carleton/cas/utility/WindowsAdmin.class
+SHA-256-Digest: RsPG5mOJ8fRjUQplTUKnBZ2qabOZCyuyY+ZXXusDNKI=
+
+Name: jersey-media-sse.jar
+SHA-256-Digest: GaIIY+8vUxwpOTGrpk7hltWeipX58OusffZKz84KLmY=
+
+Name: images/social-sharing-icon-16x16.png
+SHA-256-Digest: s1mWrBDgVgrSZjk5MK5kSEW6eSuistQALrtGvkMsj+0=
+
+Name: se/unlogic/eagledns/resolvers/Resolver.class
+SHA-256-Digest: 9rQmYzfKQmprg/LHRxtkN71HXr8GsFveeCBWu17ITjk=
+
+Name: se/unlogic/eagledns/plugins/zonereplicator/ReplicationException.cl
+ ass
+SHA-256-Digest: Y9Tec3WIy1RHIdMd6l9nnxYv09XLZlsAeoPo7nes8Yk=
+
+Name: edu/carleton/cas/modules/foundation/ModuleAction.class
+SHA-256-Digest: VByn6iDf0vfwZBZJxBMYAIdWuDZm4YCjVWIXH6Ri0sA=
+
+Name: edu/carleton/cas/resources/ResourceMonitor.class
+SHA-256-Digest: me3lbuvTcJri/p1kMW8y/d0XOnjSHfIMD4xmFyVUFn4=
+
+Name: edu/carleton/cas/file/UnZip.class
+SHA-256-Digest: rHMlZf4qio9FnLSRP0zSlvb1zrp/17JH2/2XyQs+1Nc=
+
+Name: edu/carleton/cas/jetty/embedded/ServletProcessorClassLoader.class
+SHA-256-Digest: 0DFe436fYG4MbhyexQGujfB+/yd0v7llkCvQPoJWsd8=
+
+Name: edu/carleton/cas/resources/WindowsPowerMeter.class
+SHA-256-Digest: y4d17GR5SH2UaKy0EqapfpZa7n92zU5TOYU21zBCxYc=
+
+Name: edu/carleton/cas/reporting/ReportManager$ProblemState.class
+SHA-256-Digest: yeZs8efKdcDuxZojkGhZtUqPUH201EgEC7Vv3uZhJJw=
+
+Name: edu/carleton/cas/reporting/ReportManager$ProblemProcessor.class
+SHA-256-Digest: ONMpyYlj2UpK1qQnsA9JzGTJEbcnUedahjN44q+KNis=
+
+Name: com/cogerent/utility/ObjectWithTimestamp.class
+SHA-256-Digest: q63l+C7dBcfi56FfB9f5/rKgymBEmnc1Eo/phtJeOwk=
+
+Name: conf/log4j.dtd
+SHA-256-Digest: 1BfnL0NW3nsOQ5EQ6at5QSsQRqN80/qSBA+H5qKJb/U=
+
+Name: edu/carleton/cas/messaging/handlers/WebPageMessageHandler$1.class
+SHA-256-Digest: yBga6rGbVVvtWG0d1USg+kWbSdXNvv1QprpkYtcJ4FM=
+
+Name: edu/carleton/cas/resources/LegalityCheck.class
+SHA-256-Digest: g1ODryOSFgSmZCiGoKIBzRC56pEWbNmSxcBxJyZyXdE=
+
+Name: cache.txt
+SHA-256-Digest: bb1EgYYlBINjQGt3ejAepXvtiDHA81/wh1I6coC1/r4=
+
+Name: edu/carleton/cas/background/KeepAliveSentinel.class
+SHA-256-Digest: uphua9Bqf5trQs3groOsnaiFhGt3VpAh+vJMTrcfY8s=
+
+Name: edu/carleton/cas/resources/ApplicationConfigurationLauncher.class
+SHA-256-Digest: f2Bjrm3PzdBZ0bj83spN1USP3DB4rtfA4F1sxf4rWKQ=
+
+Name: edu/carleton/cas/resources/HardwareAndSoftwareMonitor$ProcessServl
+ et.class
+SHA-256-Digest: qNvFV4m8RcrezVPJNr8aV3lP4XL9YAGP21i5IKgeTG4=
+
+Name: logs/querystats.xml
+SHA-256-Digest: UjIFGLN7of/hi/PnZBsMh0s/o42sWf6A5EddlU+mgqE=
+
+Name: edu/carleton/cas/dao/Session.class
+SHA-256-Digest: 3djv39skv4nBrSZ5F2C/W/gg+yAMCIyVVw6IXj7puGE=
+
+Name: edu/carleton/cas/utility/JpegImagesToMovie.class
+SHA-256-Digest: JdZp4VDV6Yw28os37KVMPMLaNk6Gi4pHkZPXHJa+ElQ=
+
+Name: zones/microsoft.com
+SHA-256-Digest: 3MmONB+ohWrKXxCDR/bHmVcynkvZzsZSnLloojeSn+w=
+
+Name: edu/carleton/cas/background/Harvester.class
+SHA-256-Digest: YczduVVzWP3PMx84Rckl23H5Y1evHsqVo2MGdLdhlXw=
+
+Name: edu/carleton/cas/jetty/embedded/processors/ProcessorFactory.class
+SHA-256-Digest: PNe+zv5/knMl26xiKAoHBN3/uuSxt7+BTPUSKkCu96o=
+
+Name: edu/carleton/cas/resources/PrinterManagerInterface.class
+SHA-256-Digest: VX9bhBsgBg4RUbDXO7ZtNe+PgqmAQm9sT5c5ga2xLkI=
+
+Name: jakarta.json-api-1.1.5.jar
+SHA-256-Digest: OiCcvewVIy7XoF0KqlJxFh8Ehi0hSh7oXjHHS4Zsb+0=
+
+Name: META-INF/eagledns-svnrevision.txt
+SHA-256-Digest: wVFuykXW0nQ8aYQvt5Fg7uvi0XUJvH1l3gobTy78D+E=
+
+Name: org/encryptor4j/util/TextEncryptor.class
+SHA-256-Digest: GvAZ8BBPv+ZGzEFuKZ8wUGfdVyblXe5N0lAs90yy/Tw=
+
+Name: se/unlogic/eagledns/plugins/zonereplicator/ReplicationClientPlugin
+ .class
+SHA-256-Digest: AV8bMXaoMMeSwUUCu5kLfM9gRKhAsOW+oTmrxajULMw=
+
+Name: edu/carleton/cas/utility/IconLoader.class
+SHA-256-Digest: gQ+nz1ZZ0Y3hLt+Yp4BFwyoWMqwLjEYMvBFq7B3z5iQ=
+
+Name: se/unlogic/eagledns/utils/PrimaryZones2DB.class
+SHA-256-Digest: ncWiD8wrg98f2aGXaYZVgdd4V1WSHUNKoYNm7P9gtZI=
+
+Name: edu/carleton/cas/background/SessionConfigurationModeMonitor$Sessio
+ nCheckTask.class
+SHA-256-Digest: ToH+/XckUQo1wlNmqZ+xY7ZpVoOzyHokzllz/J59bu0=
+
+Name: jakarta.json.bind-api-1.0.1.jar
+SHA-256-Digest: OlFDBP8W5+VZ7ZDBat4y+2Hu6gofEuQfrkJgn+1QSDo=
+
+Name: edu/carleton/cas/resources/AbstractTask.class
+SHA-256-Digest: YcqXONBaUIx3FED5RfFRRbLxYncenOHJoHwcbOiT8Uw=
+
+Name: edu/carleton/cas/ui/WebAppDialogCoordinator.class
+SHA-256-Digest: Fot1Utjs7P56C2LU3lh7hp/SlUhzLqUEQrPb6XFMAfI=
+
+Name: images/error-icon-32x32.png
+SHA-256-Digest: HbDIOI6ZQOAwt9s2IQtetEC4Ip56FubigvKD3Hb00UE=
+
+Name: edu/carleton/cas/exam/Invigilator$2.class
+SHA-256-Digest: e7EsiWONnkh6yIKzhSJrNC5QAKGTYkeb7MK5GGSWbD0=
+
+Name: jetty-servlet-api-4.0.6.jar
+SHA-256-Digest: 9vZrkwh1r1xDVLKWkmabBhCm1MwPsvMJD/Sa4avSKDA=
+
+Name: edu/carleton/cas/jetty/embedded/WebcamServlet$WebcamTimer$1.class
+SHA-256-Digest: AaWGmqO7i7qXvsDdcf9usWc0bay5XHBIFuD1pZkUMls=
+
+Name: edu/carleton/cas/jetty/embedded/WebcamServlet.class
+SHA-256-Digest: zZT3fEz6X4MXjFNEg0ZA56FaOdOLmZkcmhBada1uLnA=
+
+Name: edu/carleton/cas/background/KeepAliveInterface.class
+SHA-256-Digest: 7tXKjNAKK6Amh1h4oya3f1D6u0+895icklMHDtT0Q1I=
+
+Name: edu/carleton/cas/messaging/handlers/TestMessageHandler.class
+SHA-256-Digest: mH9o3pXH/xHMzIbaiMoCwhovL1AszkOZSAdRwl1UWIc=
+
+Name: edu/carleton/cas/messaging/handlers/NullMessageHandler.class
+SHA-256-Digest: 11VYOOEB8W+6AqmN66jdLxFeD+uNdWjHDs8SK+/SFOU=
+
+Name: images/social-sharing-icon-64x64.png
+SHA-256-Digest: b7wjKF8KEkRctKY3PQYGAgRLS6OnVYcMb+NuoL+JaQc=
+
+Name: se/unlogic/eagledns/plugins/zonereplicator/ReplicationServerPlugin
+ .class
+SHA-256-Digest: R2ofPyPH5B7lpMsP2itxarquR4EyWFi2s6PGEu1qooc=
+
+Name: se/unlogic/eagledns/plugins/zonereplicator/ReplicationServer.class
+SHA-256-Digest: Ql99kwNtJ8XKWtkTEOBnFJFqmGr9UcSAhu/2CtrJQcA=
+
+Name: logs/eagledns.log
+SHA-256-Digest: UmRz83eoYNM5mChEDnZrrDqBWbaXzVWD01PGcQSgCVM=
+
+Name: edu/carleton/cas/resources/SingleLineOutputProcessor.class
+SHA-256-Digest: d665rDy2dU8HnCZpRHmSobw7PgH2XZZljjJ74xbgat8=
+
+Name: edu/carleton/cas/utility/ClipboardManager.class
+SHA-256-Digest: Xj4iARuV+9ZsNO2Zo3rNj7P/Ys5UBaobTo0DqdSUU1g=
+
+Name: se/unlogic/eagledns/TCPSocketMonitor.class
+SHA-256-Digest: TY2jcaV3EYQVfPsvxKrOqjYPG24eIdh+Vdj0YzjlSwA=
+
+Name: edu/carleton/cas/logging/CSVFormatter.class
+SHA-256-Digest: ygoC76WBpfifGmoci72pXgqKlUppgnWzlqjkot+mQe8=
+
+Name: edu/carleton/cas/ui/WebDialog.class
+SHA-256-Digest: prOcnkl3Dl0vYDk29QlOe0LfaqVeGkQaakkMKjmHM3o=
+
+Name: edu/carleton/cas/jetty/embedded/SessionEndTask.class
+SHA-256-Digest: LGHY0oXlnMZ7WrPDKf9SN4mIUDIRSxumuxxfQ+yXpkA=
+
+Name: edu/carleton/cas/resources/HardwareAndSoftwareMonitor$PID.class
+SHA-256-Digest: CzT8a195FTAm3yfCGHUCv3S0v7W9gepE+UBHp2K6WaA=
+
+Name: jersey-client.jar
+SHA-256-Digest: cZ1qzZxR2tzxZqihThzWEpUVRM+XDOpTlGxqC71kUW0=
+
+Name: edu/carleton/cas/utility/CopilotControl.class
+SHA-256-Digest: 6jcc5p+jjK4girYBoJVBXe/r/CxDCm0ofhrEXngf/fM=
+
+Name: tyrus-standalone-client-1.21.jar
+SHA-256-Digest: OwNtwVKe9XQ8Wwl8NMVeQX6nq1v585Z+0FgcxQd+EEE=
+
+Name: se/unlogic/eagledns/zoneproviders/db/beans/DBSecondaryZone.class
+SHA-256-Digest: OWyYLwD4UiwOaGDIqLsq7MGTZTnlohmcnu6o06dxoys=
+
+Name: edu/carleton/cas/background/LogArchiver.class
+SHA-256-Digest: iKnXuStdjHKYvrTP7F/xMp40UXidIuuYrmXzdhh8p6Q=
+
+Name: images/error-icon-48x48.png
+SHA-256-Digest: EB2DhZ/YdyjOUnm4UCagxUUNmg6Qo7iaekTfr9vZRfE=
+
+Name: com/cogerent/detector/DisplayDetector.class
+SHA-256-Digest: ITllEiPvHvYFpJxVe0i2X1IBn/sHcyF89CQJyxtZSoc=
+
+Name: edu/carleton/cas/background/AnnotatedObject.class
+SHA-256-Digest: jGiQqvciE73Tg8NN9LdKd1QUhLOZlE5M6+KL2Vn6av8=
+
+Name: app/handle64.exe
+SHA-256-Digest: 6kV4t4LyE1XLY+dgV+C1gjvdoSmvXlhuRh3hXmIQdC8=
+
+Name: edu/carleton/cas/messaging/Message.class
+SHA-256-Digest: bLWuBFGxg1YvaY/ybX+DaKRwPkKRuNRFU1CyuLUilmI=
+
+Name: jetty-server-10.0.24.jar
+SHA-256-Digest: 9aFV+nrJpnaI0LRumcatOKwu4IaPjDEoLN+FYseHEjQ=
+
+Name: edu/carleton/cas/jetty/embedded/RedirectServlet.class
+SHA-256-Digest: pO4kkfIQui7PRlAdZNmCrvlA88JnriIlgS9MCIHT7LY=
+
+Name: edu/carleton/cas/resources/UbuntuNetworkParams.class
+SHA-256-Digest: 0Me8+ad+wiHoDEL8t9oqupZ+gtqqWtRAl1O8EN3/xZw=
+
+Name: com/cogerent/launcher/LauncherChecker.class
+SHA-256-Digest: oGrw5tX+NzsDlu9AVCMzlxvcHxUGETdSRIbYIS/D3zY=
+
+Name: edu/carleton/cas/utility/Observable.class
+SHA-256-Digest: b+hfPZP0fgMSUSJYrVlMtDJcWLBr6kh+saLd2aolzsM=
+
+Name: edu/carleton/cas/jetty/embedded/EndServlet.class
+SHA-256-Digest: vwFa/OeoIQ8sQN25jpPjct3HFVM+M2wEqIn/KY+hUhU=
+
+Name: edu/carleton/cas/resources/FileProcessor.class
+SHA-256-Digest: D9wgfERMq4nVjP/6ffMVcX20+VarvidXSyDBlK4GQOo=
+
+Name: edu/carleton/cas/utility/HTMLFileViewGenerator.class
+SHA-256-Digest: Q9cVObO1RF8pGj/uI56g+2wp2bOJakI2M4DFa2cQ5Tw=
+
+Name: se/unlogic/eagledns/Request.class
+SHA-256-Digest: mN8Hh+6LY8zQqG7ob+pAQ5DW/ejmtnZxWSmFzQ1kD70=
+
+Name: edu/carleton/cas/jetty/embedded/processors/ExamQuestionProperties.
+ class
+SHA-256-Digest: p3Bmwc+WG7lFD4YGU9IR3d1QjEETFKwWJ82Y0fH1zIc=
+
+Name: edu/carleton/cas/jetty/embedded/ErrorHandler.class
+SHA-256-Digest: SmL5NelQMW4EZI9dcuQKnukfz0KyMU28GPL5cEEg1iY=
+
+Name: edu/carleton/cas/background/ArchiverInterface.class
+SHA-256-Digest: d857GYdUjKjItHBszK15HI5n3DrRKxbACQrTGQ4n6vg=
+
+Name: edu/carleton/cas/reporting/ReportManager$ProblemIndex.class
+SHA-256-Digest: sStYbnb8RZ5MPvJiJjEL9PXziFKu0lVpBy451REb1Uc=
+
+Name: edu/carleton/cas/resources/AllLinesOutputProcessor.class
+SHA-256-Digest: gFqJS5R6edi2mlIhBcSVyOlakFGRRtT5wih0jLuqt0g=
+
+Name: jersey-media-json-binding.jar
+SHA-256-Digest: uAwoRRMNS8Jydh+i6/kDCkhMtyvx8yR2nP2Ds23091M=
+
+Name: edu/carleton/cas/jetty/embedded/ExamServlet.class
+SHA-256-Digest: XwWJFhElUmMitLhZPNGE/tlaMPMCyw/iQpqf4KTw0HE=
+
+Name: edu/carleton/cas/jetty/embedded/IDVerificationServlet$IDTimer$1.cl
+ ass
+SHA-256-Digest: mAd+G5DN6JkyyZL6ClpyWoEou1P3q4PYzJtHjaCR53A=
+
+Name: se/unlogic/eagledns/SecondaryZone.class
+SHA-256-Digest: qPiXEGP5ucclGJ2PRvBeeJ9SJTAylE3ve0odlPFuakA=
+
+Name: configuration/log4j.dtd
+SHA-256-Digest: 1FfPFsHOVWR+C2JaUj3UzZdWpa4kHs/yEO6S33WcVoo=
+
+Name: edu/carleton/cas/resources/HardwareAndSoftwareMonitor$FileSystemSe
+ rvlet.class
+SHA-256-Digest: anSz0rrvq18ny34Q1OUoJPLTqXFck7Rakzluo+IyQAw=
+
+Name: com/cogerent/dns/DNSZone.class
+SHA-256-Digest: uNKFCrvJNUTI2VQhwuy7bdLQL5G/qkREOC1i9svBEbA=
+
+Name: edu/carleton/cas/utility/VMDetector.class
+SHA-256-Digest: jb/lKk0uLO1YDAuk4SGTgE+mhvCBJmztRIpOYcz68QM=
+
+Name: zones/carleton.com
+SHA-256-Digest: 16aoVZRe0c3quvbTNq3zamDaCZUL14OAju8SiqRdSs4=
+
+Name: edu/carleton/cas/resources/ApplicationRunner.class
+SHA-256-Digest: 93BZvOp01iSSMSik8jIjAa7MYSdqsWcjJuXbH1s70kg=
+
+Name: jersey-common.jar
+SHA-256-Digest: 4yEL7r8h3xiI/alyNmUqIQ4ljbR9lzBKLPUghan18GA=
+
+Name: app/handle.exe
+SHA-256-Digest: xNA42x6NIA38gZ5bB/9jZIn5KOoFVKWr7qh7E89hp/4=
+
+Name: pages/Chat.html
+SHA-256-Digest: zknnFsic9ywHZDppjse4992h/E2xJ/L8GU7w+Dq1eQM=
+
+Name: edu/carleton/cas/security/CryptoException.class
+SHA-256-Digest: Dq4KedjaWqNqhIGeMca+xGMX/pB0lkA/uDdbiRnJ210=
+
+Name: edu/carleton/cas/resources/Configurable.class
+SHA-256-Digest: WZ8QTYa+YLVK+bAfJbEUzMAfHe5R8BjtTxW672xYdXQ=
+
+Name: edu/carleton/cas/resources/UnixNetworkTask.class
+SHA-256-Digest: LZxpDwLwKcSzmvMAxUqhO6Hd9FBnj7yIlr5QW+r4Lb8=
+
+Name: se/unlogic/eagledns/DefaultRequest.class
+SHA-256-Digest: xsimjPjC8jFbuwhaekJbzX3STlrnEP3xS+IsaUtIOZ4=
+
+Name: se/unlogic/eagledns/Status.class
+SHA-256-Digest: WqSCwqwUA32bZ3m6aUxBzRGBFS2pmTazLYuOMxJE6Dg=
+
+Name: jersey-media-multipart-2.27.jar
+SHA-256-Digest: OXnvdpugxB5MQvTSE3sxdpsuXrrvb4G9qzU11jNDaxM=
+
+Name: com/cogerent/dns/DNS.class
+SHA-256-Digest: nmkeVIQG1L8N0EOXt+W0nrUu7NKz9PqkU5lVP3qKK9I=
+
+Name: edu/carleton/cas/reporting/ReportManager$PagesReportedProcessor.cl
+ ass
+SHA-256-Digest: P+udL90c9YPYag069PveA7kyytEPtRamIWqTjBtEgwM=
+
+Name: edu/carleton/cas/websocket/WebsocketEndpointManager.class
+SHA-256-Digest: VZIARtILfYUZN2PdBPMm9sH5HWpuZVp5DY5xC4Nyc3I=
+
+Name: app/handle64a.exe
+SHA-256-Digest: JchFpjGeH5ZAHu2tudsqIuku/WwJXrwq9PSanA1pJ5A=
+
+Name: edu/carleton/cas/dao/StudentSession.class
+SHA-256-Digest: pY3Iq8I66oUuEx36WG2mst5oscLZwvRcaZV/k4Ckdm4=
+
+Name: edu/carleton/cas/resources/SystemWebResources.class
+SHA-256-Digest: rsCHLR+0sReCk5h99aBpw4QeO6RXDBYMG6N9VuV3GKk=
+
+Name: edu/carleton/cas/resources/BrowserTabsFromServer.class
+SHA-256-Digest: FZRsYNTaWTvg7rabZswy1IhSLcvvejlDa0cHAzG6lsQ=
+
+Name: edu/carleton/cas/resources/NetworkIFManagerFactory.class
+SHA-256-Digest: UYfH1Ko3kq51x+nXUza5ZR/BkfPJ2vsio+6QTq3Azkw=
+
+Name: edu/carleton/cas/utility/WindowsRegistry.class
+SHA-256-Digest: JB2cu/6KY0+ZV02Ae3DdrKezez5H6jSayzf+iLNJL6Y=
+
+Name: jetty-http-10.0.24.jar
+SHA-256-Digest: z6OgPhafAgADgFpf3dmq52RQOicMpL6Ixre8wzMcMHY=
+
+Name: edu/carleton/cas/utility/ClientHelper.class
+SHA-256-Digest: urO6yHihWiiZx68iQXFNj0drFS/pDWoYMfhnCw8acw4=
+
+Name: zones/unpkg.com
+SHA-256-Digest: 3OGmSOpKcQCI2JGL/tV7mS/kmzlg48L5LKsc4XH6qxc=
+
+Name: edu/carleton/cas/jetty/embedded/ProgressServlet.class
+SHA-256-Digest: pi3RmOlKymd3YiD2o2zw68MsTR3pUflGqbcZ3ZvEqiU=
+
+Name: edu/carleton/cas/resources/ExceptionProcessor.class
+SHA-256-Digest: G/tcp5z2e45Send142EIkYlQ3DIT8BNpoiodVh4ncK8=
+
+Name: edu/carleton/cas/reporting/ReportManager$SituationStatus.class
+SHA-256-Digest: sqeKvGq8f3LCuTE6ppRbNJ65slrhVP6SJqLp0Eru6mA=
+
+Name: se/unlogic/eagledns/CachedPrimaryZone.class
+SHA-256-Digest: iTKrusi0OTUBnhkHHAtA56iJCBEnKQdWPoWKC9DD3Bc=
+
+Name: websocket-core-common-10.0.24.jar
+SHA-256-Digest: hv1XsmxxDjkm5HDPLXmOxFhBzxrg5vMMnVkmxuxZSUQ=
+
+Name: edu/carleton/cas/resources/FileSystemMonitor.class
+SHA-256-Digest: r0ja81LDjMoeW4apBZd3xjDiZHDBhYfIxeWAfLOdH18=
+
+Name: jersey-container-servlet.jar
+SHA-256-Digest: ghEYsLIcSeCUGu4MVmVcT495XkHbAGRqKAnQxxGy9z0=
+
+Name: edu/carleton/cas/dao/Student.class
+SHA-256-Digest: JJMd489o/BwKdQPf/0QJ9ZUrmbxc2L/TqUNOaxnf28Q=
+
+Name: org/encryptor4j/util/FileEncryptor.class
+SHA-256-Digest: BvvG5cG7g1hMTL+NKfc5O2gtuLGrvAqNsKnM49dL970=
+
+Name: edu/carleton/cas/background/StateDistributor$KeyValue.class
+SHA-256-Digest: 1uduGwUqeZEw3Fuo25mFtEwpLhCZhw7LkKpR4mxujtI=
+
+Name: edu/carleton/cas/exam/Invigilator$1.class
+SHA-256-Digest: tYhJD2QL+91imkf12IPHE9r5r23ehkbRZaBZO4QqLWg=
+
+Name: edu/carleton/cas/modules/foundation/ModuleManagerBridge.class
+SHA-256-Digest: Ywg975Cp21LBUVjQWGGBsrvs8WPNG9UvWBk3EPoKg2o=
+
+Name: javassist-3.22.0-GA.jar
+SHA-256-Digest: ZAbKgR2tyAOJXB56XTjhmQYkGNwLh49jXD06D3+qsUk=
+
+Name: edu/carleton/cas/ui/WebDialog$3.class
+SHA-256-Digest: 44WmyFNCvKmjF1eUaUMGQBxCOdNOCLK5MT5Yivs2DHE=
+
+Name: aopalliance-repackaged-2.5.0.jar
+SHA-256-Digest: KBEckpnrMQAHNfGTG9viLEcEfOwsUqXhVqhZGsIkb4E=
+
+Name: javase-3.4.0.jar
+SHA-256-Digest: 8UVKIpEdyNwE6euLRNXgz0/eAjk78Qh4KcJ5ZDzI05s=
+
+Name: edu/carleton/cas/utility/Password.class
+SHA-256-Digest: yvH9mR4NJ/G2xJw2vNdiq2oBU5bcrQwv0PKvjbkpBr0=
+
+Name: se/unlogic/eagledns/UDPSocketMonitor.class
+SHA-256-Digest: 1Wn5x9j2VThFUrIcgUWN0Y8JCimC8UhS7hBVuGz7yfY=
+
+Name: edu/carleton/cas/ui/WebApp.class
+SHA-256-Digest: LcE5xAhowULiYqk9BtvDuNVx+VHA976ZYVu3bbvrq/Y=
+
+Name: edu/carleton/cas/utility/JpegMovieMaker$1.class
+SHA-256-Digest: MWI/uwsuLkH5Vl3Fk07fyoX+KGfgO7o9EZREZeKYYR8=
+
+Name: edu/carleton/cas/exam/Invigilator$4.class
+SHA-256-Digest: baibkQQW0KjydSLT6sMWMU+1U29NM6PDiVPPjINlXec=
+
+Name: edu/carleton/cas/resources/NetworkIFManagerForLinux.class
+SHA-256-Digest: zz0ci5Zz3WEh43tY/c+SqP3077mEarZxCFjsjjDz3l8=
+
+Name: edu/carleton/cas/background/InitializerInterface.class
+SHA-256-Digest: fMjx+2UxZCcQDAh/0FmodQ0v/ZsCENeG5no5bqqc2TA=
+
+Name: edu/carleton/cas/jetty/embedded/EmbeddedProgressServlet.class
+SHA-256-Digest: ifT6BVROQxa86FMwM6oJJDXqlcCtwp58N8piC9I47ok=
+
+Name: edu/carleton/cas/background/SessionConfigurationModeMonitor$Sessio
+ nServlet.class
+SHA-256-Digest: WYirBYKkz6th4VtdpJ1dz7ZghVxwA11BeZ255TesUvg=
+
+Name: edu/carleton/cas/utility/DetectVM.class
+SHA-256-Digest: KujBGhWJCZ0mCrAEZ/VqIRWP6opj2TdHsuVuR8aLcfc=
+
+Name: edu/carleton/cas/ui/WebDialog$4.class
+SHA-256-Digest: XHRS5XhSV7xWPM4tCBTGrd+u7xWApVyazK7mUFjzrl0=
+
+Name: edu/carleton/cas/background/UploadArchiver.class
+SHA-256-Digest: KUvYyHf8TdauwnDhz3ZnJt8Zky/N8g9LqIO/tRaIHW0=
+
+Name: StandardUtils-1.2.5.jar
+SHA-256-Digest: v2pSsMNaLvl2muGMlrN0Y+b1UeZdd6iGyqpr6Cr7jew=
+
+Name: edu/carleton/cas/resources/BrowserHistoryReader$1.class
+SHA-256-Digest: ywvjkUqpgK/lwiBU3xLU589IysARVelfYDxH8JUfp60=
+
+Name: images/social-sharing-icon-128x128.png
+SHA-256-Digest: 9/hDULb9K4LDNpVCJS8CFqhbML0peF7XaZA8yhbYYZM=
+
+Name: edu/carleton/cas/exam/Invigilator$3.class
+SHA-256-Digest: j2vA4nUXsy2FOKfUg4r9LQ8YR5P3ylYfV1YPSlCC/aY=
+
+Name: edu/carleton/cas/background/SessionConfigurationModeMonitor$Mode.c
+ lass
+SHA-256-Digest: 8tNjkRWFg6zgsLgs5xHYoe/ZaXAnNLPs7PWbHF8J2Ps=
+
+Name: edu/carleton/cas/websocket/WebsocketEndpointManager$AlertServlet.c
+ lass
+SHA-256-Digest: DJBqfroXt2ds7fycAEUh7dyLJ5yJitzGNi0/MM8fhpI=
+
+Name: edu/carleton/cas/utility/ClipboardManager$1.class
+SHA-256-Digest: wdKh05dvYpNkIiwkmiIZUo+91fVl1vUUSqIqMSHHJKI=
+
+Name: edu/carleton/cas/jetty/embedded/SessionStartTask.class
+SHA-256-Digest: o/IXdr5LCathExeoztM6ZzEIugvdNkqB3suepwAxTi4=
+
+Name: org/encryptor4j/util/Entropy.class
+SHA-256-Digest: ag6Dtb1uFbHuCsSjuAwoG+tmQRi2PO73SmS1jCdoNzM=
+
+Name: edu/carleton/cas/reporting/ReportManager$UnsanctionedFileProcessor
+ .class
+SHA-256-Digest: H2uF/XZ7U/7PnrxO+4o8bn/wdiJnIIW7xBO+jEsbSdU=
+
+Name: edu/carleton/cas/resources/HardwareAndSoftwareMonitor$ProcessCompa
+ ratorByID.class
+SHA-256-Digest: ncQ4HEm/o+Ad0Dk26PpHL9ZhAHvjq7MNNwWa5l8eygI=
+
+Name: edu/carleton/cas/resources/ServerConfiguration$Server.class
+SHA-256-Digest: xyVcCFkuaqPLon/a/GDNwQgQ5BXDbsr+qvOk7LHEtEE=
+
+Name: websocket-core-server-10.0.24.jar
+SHA-256-Digest: 6bQUqiKMmxMOYTFsuqk/NwF7/vQLw05jf9SogpT0K20=
+
+Name: edu/carleton/cas/resources/NmcliOutputProcessor.class
+SHA-256-Digest: 8VrpoMFzIP1tUCr/6JZivPsiPhaS0lmqSgsVaLt+/6c=
+
+Name: org/eclipse/jdt/internal/jarinjarloader/RsrcURLStreamHandler.class
+SHA-256-Digest: 22r4Qw2slmIW8mqY9HTWvwM08PD8d27UyNoIMojdwfA=
+
+Name: edu/carleton/cas/resources/HardwareAndSoftwareMonitor$ApplicationS
+ ervlet.class
+SHA-256-Digest: s0No5IlTAk9JtXEZaBJy22MLFwn3lYBZWb2/00wLS6M=
+
+Name: edu/carleton/cas/background/ScreenShotSentinel$1.class
+SHA-256-Digest: y7XWUbI5EVqC3IfGBSB5dvLXSqxP4I/mUmXuKCkvvuc=
+
+Name: edu/carleton/cas/background/KeepAliveSentinel$SessionTimeoutTask.c
+ lass
+SHA-256-Digest: 7ydnBHBQouNPxVBC45T6Zbplx3Mm6U/TQdx2xJoMezY=
+
+Name: edu/carleton/cas/messaging/handlers/StopMessageHandler$1.class
+SHA-256-Digest: HOMo3ygQ/lH9D2qp37AvsnuwxdM0Gdggs7pgiIQHRVo=
+
+Name: zones/w3schools.com
+SHA-256-Digest: zzsF7w6Il4o5qSj3rSC87LgnHjm+sgdRrqa8zHuFIP0=
+
+Name: edu/carleton/cas/resources/HardwareAndSoftwareMonitor$BrowserPages
+ Servlet.class
+SHA-256-Digest: OKHZfjaPGyRul+qBWUG1vUKssYKQyuQo4CXwRah1y/c=
+
+Name: edu/carleton/cas/messaging/handlers/ResetSessionMessageHandler.cla
+ ss
+SHA-256-Digest: e5WcUXVvL5GeBXUkbj0gBZV6f8LLTd7PgkLmftssUUM=
+
+Name: zones/blindsidenetworks.com
+SHA-256-Digest: 9JSK2r1nPr1BHq+OQN5wTgMi1XL20PSdSxF/AWapon4=
+
+Name: edu/carleton/cas/file/DirectoryUtils.class
+SHA-256-Digest: dHODRpSj+SfUVikb8JiQYI7vLrfnhAycNLYNNmivCBc=
+
+Name: edu/carleton/cas/modules/foundation/JarClassLoader$LogArea.class
+SHA-256-Digest: eDva/PcwWwwSg/R/cy6SMw5vGXMVCCeoILSPplqnbJg=
+
+Name: comas.xml
+SHA-256-Digest: GvLz7SyN+I+5o+moay9bUy/V/Ii2jXkJG/jmt1uRNqI=
+
+Name: edu/carleton/cas/jetty/embedded/ActivityServlet.class
+SHA-256-Digest: A9R21WJDRc00CdUZC8JTHpm6031Ew1RTPop0Cl9UjeU=
+
+Name: edu/carleton/cas/websocket/WebsocketClientEndpoint.class
+SHA-256-Digest: cjzS6L0fyFNclamtsOI/urRE633ySKP6Rv7RnboqTq4=
+
+Name: edu/carleton/cas/resources/WindowsFileTask.class
+SHA-256-Digest: b+MQptEu/lSEXCZxt830ulYABOcuyOv4KCYT2erLwyk=
+
+Name: edu/carleton/cas/reporting/ReportManager$Processor.class
+SHA-256-Digest: +3mcOM1EsDAnbF2e0KA5q1Bk1X1TJAfYWD66o3V6zAs=
+
+Name: bluecove-gpl-2.1.0.jar
+SHA-256-Digest: 9S2GPFrWFyxQk1o3M5T98LzUALuS7ty83J67nZl+FfA=
+
+Name: edu/carleton/cas/ui/DisappearingAlert.class
+SHA-256-Digest: il/Zbuse92AmEyvmzgQkzUq13UH8YW+iqKHJG+x2fEs=
+
+Name: edu/carleton/cas/resources/AbstractNetworkTask.class
+SHA-256-Digest: cDy6PHyvIsQ0/ez2I1Q5idLvIFkt7fVuh/2YbtUIXUw=
+
+Name: pages/README.txt
+SHA-256-Digest: /l9mFpZ7XWNcV+hSH6P9aMBWkr1C/CJSCigXwEGtEKU=
+
+Name: edu/carleton/cas/jetty/embedded/ServletProcessor.class
+SHA-256-Digest: 33f9OmC/WYOns4+BFKq9sw6HyDso7q8ZKyZsShI+txw=
+
+Name: org/encryptor4j/OneTimePad.class
+SHA-256-Digest: jm+2gb1b9l0P/UACqMyd8HBtQOeG5lHGbBdx4LT5Ojc=
+
+Name: edu/carleton/cas/file/Zip.class
+SHA-256-Digest: OH/BAkZxnBC4BdyN9idDGbO3JIN4CqE+zkiOaLuD5TQ=
+
+Name: edu/carleton/cas/resources/AbstractFileTask.class
+SHA-256-Digest: gG9gHHyzY5Tty+vyixJEkU74IUQ6xZJRXSeuJ1gOMd4=
+
+Name: edu/carleton/cas/jetty/embedded/MessageOfTheDayServlet.class
+SHA-256-Digest: cwyZOvnEcZbR6yThxBfdysV5TB8kfi0LrpXfRwVUYIU=
+
+Name: edu/carleton/cas/ui/DisappearingAlert$AlertTimeoutTask.class
+SHA-256-Digest: jeT+R4nk2cU5DA18y3Vp7N9uQGUxxtHmFb/6TdEk69g=
+
+Name: se/unlogic/eagledns/plugins/remotemanagement/RMIRemoteManagementPl
+ ugin.class
+SHA-256-Digest: QSCQtApgiNqf7MJdB4//0KGrC0Re0+jqTI++fO/DFY8=
+
+Name: edu/carleton/cas/file/DirectoryUtils$3.class
+SHA-256-Digest: CxV9fuTJ4AoZJsKxCNGZ0RkEbKO4Fkf24P/NSFJx6Hc=
+
+Name: edu/carleton/cas/reporting/ReportManager$SessionProcessor.class
+SHA-256-Digest: dMRsDZ5/+Zp7gG2TpRZs4cueD6YqdRsxXtt/+/o2YJU=
+
+Name: websocket-servlet-10.0.24.jar
+SHA-256-Digest: gSj1/n11Nfh17eT2ccdSAcBEseHChihb/g37mNjvQrA=
+
+Name: edu/carleton/cas/jetty/embedded/ServletProcessor$StatisticsServlet
+ .class
+SHA-256-Digest: 6nSZ5F5VWaF9k2oE7bnPdazVrEfLItvFkep4Q3c0Fv4=
+
+Name: edu/carleton/cas/messaging/handlers/ChatMessageHandler$1.class
+SHA-256-Digest: 8OkwWzA07VT4KVx5oBLh2su6OdswFpQEz93yA1PJl4E=
+
+Name: edu/carleton/cas/messaging/handlers/LogMessageHandler.class
+SHA-256-Digest: E6ICudr46ZC4QUmjzeU6OC9+GcFRhrPufjEGDsY1Bxc=
+
+Name: applejavaextensions-1.4.jar
+SHA-256-Digest: KpU80ogsbGLkFzopTRzged560ohhE08pB0vpvlNkvRA=
+
+Name: images/warning-icon-64x64.png
+SHA-256-Digest: hfJJe8cM8hesB/2W4NYshOyIFjYgOVh/q497nRuVTHg=
+
+Name: edu/carleton/cas/utility/ClientConfiguration$1.class
+SHA-256-Digest: p5Eek3hyhPYcdVfSTL1Oo16+xDFa9Hg+3n9m22LoZio=
+
+Name: se/unlogic/eagledns/UDPConnection.class
+SHA-256-Digest: LB1P+rr7UCPMtvHOTf8ERrxVdHqnUuU8Y032EORSs3w=
+
+Name: org/encryptor4j/factory/DESKeyFactory.class
+SHA-256-Digest: Im11oqYS5ww+uku0nTGQqBTEXERbKNCyRgBGg6s7eLc=
+
+Name: edu/carleton/cas/messaging/handlers/URLMessageHandler.class
+SHA-256-Digest: 35ly7CQ5vulGYcO6H73qLznYYybvYgM4Ad6zlROlKS0=
+
+Name: jmf.jar
+SHA-256-Digest: MSthXoQYjIflgDswYuEKgocQFX3u0UJJa599+IYb72I=
+
+Name: log4j-1.2-api-2.23.1.jar
+SHA-256-Digest: t3rHfSrhm+2pVUoliNTJm3a9kozvQzyx1OCW+hT6QoE=
+
+Name: edu/carleton/cas/utility/Mimetypes.class
+SHA-256-Digest: BssQp8YqRsitzobircQSRdPfM4Ltb9cN6hwhRGz2rrA=
+
+Name: edu/carleton/cas/resources/HardwareAndSoftwareMonitor.class
+SHA-256-Digest: BQcARSGRdZbBnFvf7mZHPqPrFEvRiatK/0gDnLFAlUA=
+
+Name: edu/carleton/cas/resources/PrinterManagerForMacOS.class
+SHA-256-Digest: LOwLNOhVXJk/m/qIH4WlVVm+pf5UEm/fGXw2z1DAbDg=
+
+Name: org.osgi.core-4.2.0.jar
+SHA-256-Digest: L8qr6y811dD/IldN00gmHxvaxbSbgcXCDWbBtd5X4WA=
+
+Name: edu/carleton/cas/background/KeepAliveSentinel$SentinelTask.class
+SHA-256-Digest: FL9pfj5IilCytwvFYN8MT+KgVeP7Elv3DukmuztUyzk=
+
+Name: edu/carleton/cas/modules/foundation/ModuleClassLoader.class
+SHA-256-Digest: DCUKH7qRF/sqFm/YDTKGrBAc0x7p4NQ3ANWAaRri0DM=
+
+Name: edu/carleton/cas/resources/OutputProcessor.class
+SHA-256-Digest: yH7M2IT6yGMvSvYTBq9yGemjiU3URRHFwsMeMLNP2LU=
+
+Name: edu/carleton/cas/resources/FileSystemMonitor$1.class
+SHA-256-Digest: adfBdMOObEbxCIOeOLW9A4oSX8oNVix4Yhe8b4JHlkM=
+
+Name: com/cogerent/detector/DisplayInfo.class
+SHA-256-Digest: 79EtVuBH+y7gYFIy/dakOK/6+M9XCGjZFLNWRu9fv5E=
+
+Name: edu/carleton/cas/ui/PasswordDialog$1$1.class
+SHA-256-Digest: KvdXLH/mE69SUzUQobV04+Ub5PdwVBSOAJhsHPg/wQA=
+
+Name: edu/carleton/cas/resources/Resource.class
+SHA-256-Digest: EjyikiAXgt+sYsL0D8B2fxEOjMYz9a/xsEpzLhJPT68=
+
+Name: edu/carleton/cas/utility/CodeVerifier.class
+SHA-256-Digest: 0gHcM6C3qEKDWMQ/wJYAAba6w+y95U5qBVx8WT36VEM=
+
+Name: jakarta.annotation-api-1.3.4.jar
+SHA-256-Digest: MJnl3vYnW4PfNt3YRfBcRy8pvk6rlYl9MoLK+FtPBKo=
+
+Name: core-3.4.0.jar
+SHA-256-Digest: G3xJqVokGEOxxGAGgcAT2CPN5UtmB7BtSrmzUJo5H8o=
+
+Name: jakarta.ws.rs-api-2.1.5-sources.jar
+SHA-256-Digest: dlVasNx5tELYT6VK8Ra7lsPWToN0aaBQOQdedFdN3XE=
+
+Name: edu/carleton/cas/modules/foundation/ModuleManager$MessageProcessor
+ .class
+SHA-256-Digest: u76lwZDDQJlvcPivNRe2MK2j29rEhObZ9UoydJhaOdc=
+
+Name: edu/carleton/cas/background/timers/RepeatingTimerTask.class
+SHA-256-Digest: z//4BGJ+Wf1p558ZGZcfvahoHu9k4GbmIDZoI0nTRv8=
+
+Name: edu/carleton/cas/resources/VMCheckTask.class
+SHA-256-Digest: WcK679BN9iI37O8wFBT5coHXhBcXX5giouRi3Nk3oa0=
+
+Name: edu/carleton/cas/jetty/embedded/processors/MultipleChoiceQuestionP
+ rocessor.class
+SHA-256-Digest: mWhK1QQUmuhwVPjdFQcJuy8+qrRsNEBeOIfT0iAxvo0=
+
+Name: edu/carleton/cas/modules/foundation/ModuleManager$ModuleContainerP
+ rocessor.class
+SHA-256-Digest: eyY/U4fsYWwQuh2EZUCA8i0+Uw8W/tbg6ffzaUn9MPE=
+
+Name: edu/carleton/cas/resources/WebAppPageLauncher.class
+SHA-256-Digest: uL1elYD/+HHIxT3+cgBMoqKdgejk7jLajE2q4/0JjTk=
+
+Name: edu/carleton/cas/utility/CountDownLatchNotifier.class
+SHA-256-Digest: MCLswRkPG0YyTdioKfUtXJok4tfCFQdYg9V+9Up3ris=
+
+Name: edu/carleton/cas/resources/BrowserHistoryReader$BrowserHistory.cla
+ ss
+SHA-256-Digest: FT3gtuMuWZqLvlWPtQYXlV02pMaQLBrfIaDZqM7hQnk=
+
+Name: edu/carleton/cas/resources/Terminal.class
+SHA-256-Digest: fp9hMAU67b8yNrWnK6UEvV5q8HeNrFwj/4YnMpxwZds=
+
+Name: edu/carleton/cas/resources/NullOutputProcessor.class
+SHA-256-Digest: I+fhzQEkYJQTLepSulMxH6zjY1ORyotBIuHmy38/8kE=
+
+Name: edu/carleton/cas/background/ControlInterface.class
+SHA-256-Digest: j8lw11OSz12lKqmg7vUHJksBnRxVyuY1ZaEjGnGs3sM=
+
+Name: edu/carleton/cas/resources/ResourceListener.class
+SHA-256-Digest: D6iebanFsbICguF4IgKSzW34Nasb4gZiovYgMFwu6lg=
+
+Name: se/unlogic/eagledns/plugins/remotemanagement/EagleLogin.class
+SHA-256-Digest: mjBU6n8nExGHAuPO3XL2iG8SR6PwHCfpOIAbRpY23Yk=
+
+Name: edu/carleton/cas/ui/WebAlert$3.class
+SHA-256-Digest: b2gqdsDZRrDLXLJsEzcBQ7dqc1XDq6ij0hmh+QDLtmA=
+
+Name: edu/carleton/cas/jetty/embedded/MessageOfTheDayServlet$1.class
+SHA-256-Digest: SoHqTSYoMXEwntqnGsDhXVWVKPDCvn8AUfXfTZ0Dl8s=
+
+Name: images/error-icon-72x72.png
+SHA-256-Digest: Qa2t73ZfMFTLUN35youQU8XQCME9GuJ/BSa5sNM8u2c=
+
+Name: hk2-api-2.5.0.jar
+SHA-256-Digest: Snb+61vNKOv5Y6rxfvY5Td+U6NdKyKsqya2+AeqoOS0=
+
+Name: edu/carleton/cas/background/SessionConfigurationModeMonitor.class
+SHA-256-Digest: hVQG+aJ9KIeb6Dl1GAHuJcnjr+zYVU4dpLS4RCfw3UY=
+
+Name: edu/carleton/cas/ui/WebDialog$1.class
+SHA-256-Digest: Z8ESGALDARKKzrBwpPsR9oiWoqA8yvehEJ8w7atoi8M=
+
+Name: edu/carleton/cas/logging/HtmlFormatter.class
+SHA-256-Digest: lxYnHaQJcFXDVVAydSioA3jrbDp6aZOpeKjkPOPYwdQ=
+
+Name: edu/carleton/cas/resources/HardwareAndSoftwareMonitor$ProcessCompa
+ rator.class
+SHA-256-Digest: m4kuk4JkA5yVAI9MP5fVmrt5QR2rTSB9EY40HZzr1t4=
+
+Name: edu/carleton/cas/jetty/embedded/ClosedBrowserScenarioTimerTask$1.c
+ lass
+SHA-256-Digest: he0G31z5miJkDV7JZiyBlzsVUdVqxHLeo+OH0x14cxk=
+
+Name: edu/carleton/cas/modules/foundation/JarClassLoader$LogLevel.class
+SHA-256-Digest: RUku8B/NZ3deEV68AK+lrwI7pgkXAm0GXttbD/FLsbk=
+
+Name: edu/carleton/cas/resources/PrinterManagerForLinux.class
+SHA-256-Digest: 3db+9QocCt2IGmSdJf5CrxnaLAicSg1ecnT5+PsJr8M=
+
+Name: edu/carleton/cas/messaging/handlers/ChatMessageHandler.class
+SHA-256-Digest: Ik+mmIV14HvqLuN61bRNLCqM4IV8wcwaqZ1AFuwa2Y8=
+
+Name: edu/carleton/cas/messaging/handlers/StopMessageHandler.class
+SHA-256-Digest: UjrGlRIX9FrMmP1l/+NsgcYb1BRwrenRiepBZjomJSY=
+
+Name: edu/carleton/cas/exam/Invigilator$6.class
+SHA-256-Digest: QPd7Qg2vsAIV1iSEkfAx53ST2VIhTiNLANA56ESPb0Q=
+
+Name: edu/carleton/cas/jetty/embedded/processors/FileRenderer.class
+SHA-256-Digest: ufYkq1j+NROWNV3gS2EScJgjr8D3KUa04UVjWH/qwaU=
+
+Name: edu/carleton/cas/modules/foundation/ModuleManager.class
+SHA-256-Digest: QASo8VL50Z788fzhd64fOSWolePtbw76KDXMdTftWHk=
+
+Name: edu/carleton/cas/messaging/handlers/BaseMessageHandler.class
+SHA-256-Digest: lFFoXtOu2GEIVX4K1vMnfF9PkAEU98SLQHpI/ldyb8k=
+
+Name: edu/carleton/cas/utility/JpegImagesToMovie$ImageDataSource.class
+SHA-256-Digest: HCHLOSbkZlfdzi9FKNnWQ+WdhVmk38diZWV9km26uAY=
+
+Name: edu/carleton/cas/utility/DriveSpace.class
+SHA-256-Digest: x/ypKorKiS1UavWB4q8TsAbD6399yVtrz7QX/WaYOxQ=
+
+Name: org/encryptor4j/factory/AbsKeyFactory.class
+SHA-256-Digest: pxcpVITWJyXa6xl4qvISUCgAy4UqPqyBNrDLe5qMHBo=
+
+Name: edu/carleton/cas/jetty/embedded/WebcamServlet$EventType.class
+SHA-256-Digest: OQggwN4zojDT6wOD4ZQWyemHvZnt90/xDQyLnaTyPgA=
+
+Name: edu/carleton/cas/jetty/embedded/processors/TextQuestionProcessor.c
+ lass
+SHA-256-Digest: c8QI+Al3Dx0fkGCHLKLqQn5AWWFtp3N9xUaPxI30jvE=
+
+Name: com/cogerent/utility/PropertiesEditor.class
+SHA-256-Digest: 9FTp/pG2rDnUk1ix0pM3eKnzj7K8DL8KabV2sP3Z8qs=
+
+Name: zones/googleapis.com
+SHA-256-Digest: ek33wgFqtiJQ04A3KJGhjqPGIhYIMng8DKioPtPRwc0=
+
+Name: .DS_Store
+SHA-256-Digest: uFfx9EreFHShLUoEJiQbVX2R2DLBWurVn9IFYyFZer4=
+
+Name: edu/carleton/cas/utility/InsecureHostnameVerifier.class
+SHA-256-Digest: a7sUnIDYwSF20+sx2++zx1laTyxku2H5KnwJiBn9ktE=
+
+Name: osgi-resource-locator-1.0.1.jar
+SHA-256-Digest: oiWbAm1gW+N/A/naMhDc9O8hFdSpI7bXa5cCMyXvAEM=
+
+Name: edu/.DS_Store
+SHA-256-Digest: kCpM1hA+JhrBQuAJ0YUuuZZ05q/JJ6z3Wl9hYhino4Y=
+
+Name: jna-platform-5.17.0.jar
+SHA-256-Digest: iV11uJm5enaVXYq7LsTDX19pmnhGKNVH7yvbUTMnDKQ=
+
+Name: edu/carleton/cas/messaging/handlers/LoadMessageHandler.class
+SHA-256-Digest: TBXUEZfe9ngnmCP3Wn410564qKAjUgaW9g0R+Yt/9yQ=
+
+Name: META-INF/license.txt
+SHA-256-Digest: wa2QRuLgCk0q/HX8nxYBM7StTxn9aiZatOb9gkrMiNc=
+
+Name: edu/carleton/cas/background/Authenticator.class
+SHA-256-Digest: weZf1i8fZHp0kz51jJyo8S9jDB0MP9EA1x9I2pkoUXY=
+
+Name: conf/log4j.xml
+SHA-256-Digest: epwMynTfcx+lqsfUuGIJybHX055oPV6ee0kgXvi2f6U=
+
+Name: edu/carleton/cas/resources/HardwareAndSoftwareMonitor$DesktopServl
+ et.class
+SHA-256-Digest: n24NeKKSWf/QUi/uphckbMgpC/TV6tbuwByCstcgBaw=
+
+Name: edu/carleton/cas/reporting/ReportManager$SummaryReportServlet.clas
+ s
+SHA-256-Digest: +SA/NHw3ktE8pV/5NEb7Gf06tUhHuj3AjUGHVJU2+Bw=
+
+Name: edu/carleton/cas/resources/PrinterManagerForWindows.class
+SHA-256-Digest: 5VvUWBmM8ba6WYmRIN6LJKncQIavVelyAvMWek8tso8=
+
+Name: macify-1.4.jar
+SHA-256-Digest: VqP02EQnQLgeAMauLEJQGM/Y2nD0Hbc3Xl1ePc7zKiI=
+
+Name: edu/carleton/cas/background/SessionConfigurationModeMonitor$Alert$
+ 1.class
+SHA-256-Digest: rKR4vj5BdSvrMp8inFUGjtdirSHG9QLY5EoMxeCWnxs=
+
+Name: edu/carleton/cas/utility/Named.class
+SHA-256-Digest: ejjQDiGqoTMh+MWQOYt7h7a/hkC/XKDMyobiimJLvuI=
+
+Name: edu/carleton/cas/utility/StringChecker.class
+SHA-256-Digest: CXDbs4pOUtF2bS4Pn6uvVpbhQhR9szkglKwSQKWxF2Q=
+
+Name: edu/carleton/cas/exam/Invigilator.class
+SHA-256-Digest: lbg+bKi3NylzH/lfS1zcg9A/M+RGR/w4Aje6JoSQYmA=
+
+Name: edu/carleton/cas/reporting/ReportManager$ProblemProcessor$1.class
+SHA-256-Digest: DZUymFW76aMz893SYQBMpMbp8fGZn1axOj4lkXwMJTU=
+
+Name: dnsjava-3.5.2.jar
+SHA-256-Digest: 8kLaVUqPOKYnIpa9oC/UdhFJkSNC4UYg+J3OrTSNCFE=
+
+Name: edu/carleton/cas/resources/ServerConfiguration.class
+SHA-256-Digest: vqun99TmqUgqh/Ds5sNFcTs8sPtUIUj+ITo3eWMfc7w=
+
+Name: edu/carleton/cas/ui/WebAlert$1.class
+SHA-256-Digest: EDgbJKbd4djLbKD/KQEPU/dLBSLIDQ8KwOjPIOXnOh0=
+
+Name: edu/carleton/cas/background/SessionConfigurationModeMonitor$Alert.
+ class
+SHA-256-Digest: vdi+CDN8BNViXo2D3GMRL+Gzod2NDYQ298ke20mRtUQ=
+
+Name: edu/carleton/cas/constants/ClientShared$OS.class
+SHA-256-Digest: 2nqiRNf7sxkNlaTBn1xQ2UNpeHxfWlA5X1yCbcApN/o=
+
+Name: edu/carleton/cas/reporting/ReportManager$ProblemProcessor$3.class
+SHA-256-Digest: RCmJYDeSVfxGAz9GnGG+iA1h6t2LwddIjaRngDYRg3o=
+
+Name: se/unlogic/eagledns/plugins/remotemanagement/LoginHandler.class
+SHA-256-Digest: a1gzD2jstS9W8EoxZZLSzJkouSM1ypg7aGIP8r2tyYE=
+
+Name: edu/carleton/cas/jetty/embedded/processors/RendererFactory.class
+SHA-256-Digest: JHboG6CPBn6KSFeuajYznynXgc1rO434QCZ5kpKaHsc=
+
+Name: edu/carleton/cas/background/Archiver$Worker.class
+SHA-256-Digest: 1VLmYnt0XChrTaLBBfXxjeIOc022/lNZrFhYH9+Ks2c=
+
+Name: se/unlogic/eagledns/plugins/SystemInterfaceWrapper.class
+SHA-256-Digest: Xb21bvJ6EzVha+GlEHhg62K8OkZEymzmk1GokY0V5ac=
+
+Name: app/Eula.txt
+SHA-256-Digest: qvgGduuflTDeMZs+uCArWF8J6VEyR0nVHiRk0Z0neHs=
+
+Name: edu/carleton/cas/jetty/embedded/WebcamServlet$Event.class
+SHA-256-Digest: r2UgzfMDf2tWr83cAppOQD8QaT4JF9m52z/05caA7Ys=
+
+Name: edu/carleton/cas/background/SessionConfigurationModeMonitor$AlertT
+ imeoutTask.class
+SHA-256-Digest: opx54h2suhwUpfKeHt6t6MC3gUVXQ5irWeN7NCO8R98=
+
+Name: images/error-icon-24x24.png
+SHA-256-Digest: JjLa0A1vqrcP4UMQ4G4fbu9ph+kNQzpk8pl+lA+XID0=
+
+Name: edu/carleton/cas/ui/ServerChooser.class
+SHA-256-Digest: ERYz1pxUHQwkYoCYIzk4P8DOygXBhwhbmjuD0zmKgVU=
+
+Name: edu/carleton/cas/ui/PasswordDialog.class
+SHA-256-Digest: l0QkVuqDIpHHKcuBB81tSxOPgRibqNOuRE39OT9fsPI=
+
+Name: images/social-sharing-icon-32x32.png
+SHA-256-Digest: uOzMUDLvdJ1SL3j0/oevI3KJ1ZQktx7QfJ7sCQmw5JU=
+
+Name: se/unlogic/eagledns/CachedSecondaryZone.class
+SHA-256-Digest: Z2+vnLKzDFK6fZ8ryj+sWv8cHbci9eFtPF+PNVzXiEM=
+
+Name: edu/carleton/cas/jetty/embedded/ExamQuestionServlet$1.class
+SHA-256-Digest: BEF/qZY9zej3F4qjg8dxXDqyZ5T2oHzAJ4gtnOjx9Hk=
+
+Name: edu/carleton/cas/reporting/ReportManager$NetworkProcessor.class
+SHA-256-Digest: 7C0McPpaAYcykpPc4sb2MlexqlJmPwY8zzT4wL2xUQg=
+
+Name: jersey-media-jaxb.jar
+SHA-256-Digest: AADlRfnbdccYvo0Wn5mHb5xClXJEqPWcW7s5wVC6V2w=
+
+Name: edu/carleton/cas/background/timers/ExtendedTimer.class
+SHA-256-Digest: +FkvmuSVcw1AMknXHVTt5JoZfAVIr7yxmzZ+LxAnWkw=
+
+Name: edu/carleton/cas/jetty/embedded/processors/UnknownQuestionProcesso
+ r.class
+SHA-256-Digest: Va/Hnuw2bp7xKjJs8jW/gmjqiu9Y+HGb7EYOKEtyGw8=
+
+Name: zones/carleton.ca
+SHA-256-Digest: 59kiNnVBbnTuPJJumtNNFLM52wl7YqC/CfnIKbMPF7o=
+
+Name: edu/carleton/cas/messaging/handlers/AlertMessageHandler$1.class
+SHA-256-Digest: ZX3nYaKeejbY46l2MZChUuQAZI8JPQMKVbIiT7QKMtg=
+
+Name: edu/carleton/cas/background/ScreenShotSentinel.class
+SHA-256-Digest: jL/acL/l095xHRREFlE5G5BFfrAQj6dvOlJBs/X7xzM=
+
+Name: bluecove-2.1.2.jar
+SHA-256-Digest: g/RHWYRVf0jsbCYUP1H2KTA/VTsA1EWItjgP7/WSFbo=
+
+Name: edu/carleton/cas/jetty/embedded/processors/ProcessorInterface.clas
+ s
+SHA-256-Digest: 59Z0bfDw+0Q6DkQOKONhwa0gs9j4oA8JEkvChVr6MZY=
+
+Name: jersey-hk2.jar
+SHA-256-Digest: wqdW4UFrY34cUIXA2qLIrVqPBdAtxXIBAy4XgDMQe1M=
+
+Name: edu/carleton/cas/file/DirectoryUtils$1.class
+SHA-256-Digest: +8SRjldu8TYpqfL+zyhuCUogHDf2GiFKwgIkfj1v1nE=
+
+Name: edu/carleton/cas/background/LoggerModuleBridge.class
+SHA-256-Digest: TiTNLD6y8TB4xzTJH1Lx43b/EdqdPvWjk+VnrpNeeZQ=
+
+Name: edu/carleton/cas/background/SessionConfigurationModeMonitor$IPv4Co
+ nfigurationMode.class
+SHA-256-Digest: FGnWbWHjHsQlyqTwtnsUBNrRyP6LxQa99SsF3e1pNwI=
+
+Name: edu/carleton/cas/resources/LineContainingPatternProcessor.class
+SHA-256-Digest: O2Foqm0RPM5wO4IXCF1pYKMxRysPbjs27MFcODJL/nI=
+
+Name: CoMaS-Module-Base-0.6.3.jar
+SHA-256-Digest: D72TxuIUfjYDukbZ6gvST7JyafqdOjftS9xc5An71kg=
+
+Name: zones/googleapis.net
+SHA-256-Digest: 5neOIiKJYoiKdL+6CErzoZblLtX39dV0DUpgUi7QxPE=
+
+Name: edu/carleton/cas/utility/IPAddressChecker.class
+SHA-256-Digest: tEJVt6aOk21RmoMVb7+EtkFI1W+3MDHbpG/BIvaszoM=
+
+Name: edu/carleton/cas/reporting/ReportManager$ProblemStateWithCondition
+ .class
+SHA-256-Digest: df6Qniv88hCfhustaQl+YVxOdbPLTtrLzhjuQpAXiC0=
+
+Name: edu/carleton/cas/resources/FileSystemMonitor$3.class
+SHA-256-Digest: FNrlzzFOW4IZVqqpXSJaIN2LPLLWec56OFVKR8LPRso=
+
+Name: com/cogerent/dns/DNSObserver.class
+SHA-256-Digest: SW4I11ExMui1NcyJbKgxDqPnHNH/yzK9zkiFqRrVfw4=
+
+Name: edu/carleton/cas/resources/OutputProcessorObserver.class
+SHA-256-Digest: CJkXCs5+fpNdfwlmdBm1naO/jtF+yEWDPg1NZTsc+y0=
+
+Name: se/unlogic/eagledns/zoneproviders/ZoneProvider.class
+SHA-256-Digest: F2ae8MbJqnCss92pXMB4MvKlXG/b5/1c36VsNlhLeI4=
+
+Name: se/unlogic/eagledns/EagleDNS$1.class
+SHA-256-Digest: mFDGP20hq8Yoly9aZZy6fSmqNrEShfJ6IqTNd5aGHp0=
+
+Name: images/error-icon-128x128.png
+SHA-256-Digest: QH64fR21v2wd1Jcv9JaxoyP+52318T0MrXKKjRM++Ro=
+
+Name: edu/carleton/cas/jetty/embedded/AgreementServlet.class
+SHA-256-Digest: suB881oIEvvFhInHiVz5z4zioIyMV3DN2k7zs9bUEho=
+
+Name: se/unlogic/eagledns/resolvers/AuthoritativeResolver.class
+SHA-256-Digest: sxwYV25I1yoJCY6/HymGYRlVaW+VQ/ia1EGQoZnGIdw=
+
+Name: app/pskill64.exe
+SHA-256-Digest: gZF+nvyRHGP2fN0BJDXzZL3XYo7wj3ijEZqynZRsggc=
+
+Name: mimepull-1.9.7.jar
+SHA-256-Digest: oQ/aARZQLXSQYYNrAIbbXKArbNl794+1f2wOmKoLuFE=
+
+Name: images/error-icon-96x96.png
+SHA-256-Digest: OXBcWPjdxDJM8uOYxcGmdky3ExnVw0XDUlqj1ehhH9M=
+
+Name: edu/carleton/cas/jetty/embedded/ClosedBrowserScenarioTimerTask.cla
+ ss
+SHA-256-Digest: /OcaV8Eevxrax/wqQRtpi9g32MeWZZV9By4L5rIUZms=
+
+Name: log4j-core-2.23.1.jar
+SHA-256-Digest: 30Wdq8ruTAr30k+cAd1OyH69oZ6iBng8FfGtTeEIcdE=
+
+Name: edu/carleton/cas/modules/foundation/JarClassLoader$JarClassLoaderE
+ xception.class
+SHA-256-Digest: CwwomIpsdp+WeniYFNyKJkJg/1LruFePCtiiY1biMaU=
+
+Name: jetty-io-10.0.24.jar
+SHA-256-Digest: wi/nc2B9MRjwbKCGwTqpYxrZQ2eKjlT85yDtHTVAIvA=
+
+Name: images/social-sharing-icon-96x96.png
+SHA-256-Digest: TlklPxYeSbgPI2/reYtow/EIM11nXnPMPYZ1MYc+C0M=
+
+Name: edu/carleton/cas/messaging/handlers/WebPageMessageHandler.class
+SHA-256-Digest: 33yO134QZnrSD4lzUb3GZntMpaJLyFEqNdaqr75PGe8=
+
+Name: org/eclipse/jdt/internal/jarinjarloader/JarRsrcLoader.class
+SHA-256-Digest: 5p0occjHVyxHu6vu6gd3ZHVxd5b5lOZrCyLtUxqyN0w=
+
+Name: edu/carleton/cas/utility/Observer.class
+SHA-256-Digest: lBWBJAVfh2pv49Koc44oDs5y+C0wTmRmFa/x+IPXgHA=
+
+Name: edu/carleton/cas/ui/WebApp$2.class
+SHA-256-Digest: Y+MD4bUjvmpFaEO/xGJIoHvm1cx7c6H9EHVVEB7PtCU=
+
+Name: slf4j-api-1.7.36.jar
+SHA-256-Digest: 12s4PvTpD4/VYHPTKn59qKJwkePOOftJvLfm/L6vzec=
+
+Name: edu/carleton/cas/jetty/embedded/BasicLoginServlet.class
+SHA-256-Digest: KdZU7BjB9wg+B8mL4hTbYVqjHpOrKgW4N+19Y56IS9U=
+
+Name: edu/carleton/cas/background/KeepAliveStatistics.class
+SHA-256-Digest: p1sV4/32yTQ9HJgsYb5P2bOAlAhttioyfDJ+9/M58vc=
+
+Name: edu/carleton/cas/security/Checksum.class
+SHA-256-Digest: fnnp8JXzeQUzJ2dxSnMdHCzaiZFXwRT/3v/OxDlccMo=
+
+Name: org/eclipse/jdt/internal/jarinjarloader/RsrcURLStreamHandlerFactor
+ y.class
+SHA-256-Digest: zuJy6+bH8SY/48q+6OUX/QFiB9HAKFPSppyKliapEYc=
+
+Name: edu/carleton/cas/constants/ClientShared$1.class
+SHA-256-Digest: lGNoG4l0QgzlZAVaQteTBJcdhrVDMd9cYsw1a7mjUiI=
+
+Name: org/encryptor4j/Encryptor.class
+SHA-256-Digest: zbrDe2BlbrwDDSvXl6E9qDRgV6nN183SCVI59rm3dWk=
+
+Name: edu/carleton/cas/jetty/embedded/ServletProcessor$LogServlet.class
+SHA-256-Digest: dTMOqyMMRkAxJL+Dq7AI31gfTWJs5CSWl6LUgqbsHho=
+
+Name: edu/carleton/cas/jetty/embedded/processors/AbstractRenderer.class
+SHA-256-Digest: KqodzUT/CW9eWqaGz4344SIi07OPMTU2Q+iyHt/fzAA=
+
+Name: edu/carleton/cas/modules/foundation/ModuleConfigurationImplementat
+ ion.class
+SHA-256-Digest: bMBeECSYRR0OT8rqveY8cxQuE+8zAATi2f0dxwE6780=
+
+Name: edu/carleton/cas/resources/BrowserHistoryReader.class
+SHA-256-Digest: JbmBfuM6++dP2hxWNsi2RwNfpnIEcs7YkBKMjR8sZW8=
+
+Name: websocket-jetty-server-10.0.24.jar
+SHA-256-Digest: 7UpBpKspp5BtQEn6GELQF9NPfj5hWzyakP1lrrwWw/w=
+
+Name: edu/carleton/cas/logging/Logger.class
+SHA-256-Digest: GaPB7kVodsoCmxDmEhGqL2+6yVQKcxz419RvWJbmdAc=
+
+Name: edu/carleton/cas/reporting/ReportManager$ProblemStatus.class
+SHA-256-Digest: FlYH8U5cgibinX6R1A0a/z5b9WlKwkyHUgcomVBzWV8=
+
+Name: org/eclipse/jdt/internal/jarinjarloader/RsrcURLConnection.class
+SHA-256-Digest: aAaLIFCrxZt+ANt7GtphXVhm3Ic+Y2/VamyfZ7EDmhE=
+
+Name: edu/carleton/cas/resources/HardwareAndSoftwareMonitor$Health.class
+SHA-256-Digest: iF6SKvhDhxRegwm5SxNJvrW4wBFfaIrKl/e0aAJ7elA=
+
+Name: edu/carleton/cas/reporting/ReportManager$ProcessesReportedProcesso
+ r.class
+SHA-256-Digest: ijZaLXz1D4PqtDkso1rGqr/NJ9EwYrDc+6Mq1B6ub7o=
+
+Name: edu/carleton/cas/background/ConfigurationBridge.class
+SHA-256-Digest: /dJMTh38x/qBNOUkxpwt8lQzYK81pLtwvYkbAGsaS4I=
+
+Name: edu/carleton/cas/modules/foundation/ModuleState.class
+SHA-256-Digest: EhN5jHgeshwa4YFzZb35SMsEE1WS9pYt4OdDFt/64tk=
+
+Name: edu/carleton/cas/utility/ScreenShotPermissionTest.class
+SHA-256-Digest: 0U1Lmh74PiPQlZPQLSDR9PcBx/OlhhaC4b9DC2OUWlA=
+
+Name: org/encryptor4j/factory/KeyFactory.class
+SHA-256-Digest: CmYvrQn+3FvsJyk03VPoPnNx+qbSDJAJaNnDw/1eN8E=
+
+Name: images/warning-icon-72x72.png
+SHA-256-Digest: 4TUSaG2ghXXs7owdYz/lzFYY5OC/K0yYiwtZ3hq+GL8=
+
+Name: edu/carleton/cas/exam/Invigilator$Worker.class
+SHA-256-Digest: pFlWcMJ6PKXm1cl20URPiHbwCExPgoLDv+vpPTIHdyg=
+
+Name: se/unlogic/eagledns/plugins/BasePlugin.class
+SHA-256-Digest: 6xAKga/lYtxuHlw4wSnEdtftFntSYvoO6Jo39opcht4=
+
+Name: org/encryptor4j/KeyAgreementPeer.class
+SHA-256-Digest: rSV6oi+0q/Kqqft+969bYduKIcSDHTFL19uNQRojS9Y=
+
+Name: edu/carleton/cas/jetty/embedded/processors/RendererInterface.class
+SHA-256-Digest: b9PwQOFHDOh3GSeTq6IGfJRNe0lZoJPPnvz4/73Z0Qo=
+
+Name: edu/carleton/cas/messaging/handlers/UnloadMessageHandler.class
+SHA-256-Digest: SvNngJjWROLVO4thkY6plQKCCbvaRSrc/0VOJF/O7HY=
+
+Name: org/encryptor4j/factory/AESEncryptorFactory.class
+SHA-256-Digest: ADd7ZthX3xNu9pYjfwtv+SkcMzTlAQmO1IffJmblfeY=
+
+Name: configuration/log4j.xml
+SHA-256-Digest: OndAfG80hcON6tQ6+PhHoof1Cub3zKo96qp+syKmtyw=
+
+Name: edu/carleton/cas/jetty/embedded/ServletProcessor$2.class
+SHA-256-Digest: 3lW3tb7bDc8Pr4rUpHTPpRWEdU9twCfo/5MiXWcBYyg=
+
+Name: se/unlogic/eagledns/ZoneChangeCallback.class
+SHA-256-Digest: GK3nKLLBIFqzU4PjTjPpkfp1YDFbkt374oCzj2fVyrk=
+
+Name: websocket-jetty-api-10.0.24.jar
+SHA-256-Digest: TrYbVmUBUVDj/lPPAGA+y5ZoMCFN1PtZLzGr0vbYSSU=
+
+Name: edu/carleton/cas/messaging/handlers/EndWaitTimeMessageHandler.clas
+ s
+SHA-256-Digest: 27cDpHP6SDduAJ3fC4MjsbNsPmvaFw9N02utPivdo94=
+
+Name: edu/carleton/cas/messaging/handlers/EventMessageHandler.class
+SHA-256-Digest: wzM7Fc6JZe88M5hdoyfmVZkn5xJbsRJACnjJiyAUEfY=
+
+Name: edu/carleton/cas/jetty/embedded/UploadServlet.class
+SHA-256-Digest: ixMj210eesZzDHd6kOgKEQXiit2y7swGyfviRFPFPRE=
+
+Name: edu/carleton/cas/.DS_Store
+SHA-256-Digest: CjrMe9uZ9ThfAedIddHj18iDkD9nTcLqH+ZBSVACmms=
+
+Name: edu/carleton/cas/messaging/handlers/WebcamMessageHandler.class
+SHA-256-Digest: pCWlWPlGot7p+xu743S5MsWofNA3Vx0WqIZe1rWZC64=
+
+Name: edu/carleton/cas/resources/HardwareAndSoftwareMonitor$PatternActio
+ n.class
+SHA-256-Digest: YsNmjSrlTEZpwU4uauZxXFTvJ+eetgfhYYmwV6h8/xA=
+
+Name: edu/carleton/cas/resources/HardwareAndSoftwareMonitor$HomeServlet.
+ class
+SHA-256-Digest: uNR1e1SaebZxzA1fpjmRc6iCTloRfUSztYN7kvHEuvA=
+
+Name: jersey-server.jar
+SHA-256-Digest: VK4vHxxmizNy2uvd9Qzn0+LcSa2S4cK3hfeccQs9SxE=
+
+Name: edu/carleton/cas/resources/CommandRunner.class
+SHA-256-Digest: qaogNAvCd2F0jk0PyeXq5QjoiIj1sFmiMsUkGRLnExo=
+
+Name: se/unlogic/eagledns/ZoneProviderUpdatable.class
+SHA-256-Digest: mF2UCh0LCM2yjicmvy4EqyBG9fWVtTuZ7Z9hsoAB4Ts=
+
+Name: se/unlogic/eagledns/plugins/SystemInterfaceWrapper$1.class
+SHA-256-Digest: HFs1Au1tkFknvv5jQAt6qQPyXNU9/EKacsyOREL2RQ4=
+
+Name: zones/arin.net
+SHA-256-Digest: o1ek/SpR8w9W2yzGDDLFuAtKzKFnB12c6Qfyh/EEBxY=
+
+Name: edu/carleton/cas/exam/InvigilatorState.class
+SHA-256-Digest: 5arqYepQMJvb7F2Akb/syiJrPHnMk/W9X0EBgRhjYto=
+
+Name: edu/carleton/cas/reporting/ReportManager$WindowsReportedProcessor.
+ class
+SHA-256-Digest: XjvMwHZNm3RhF8u4X93Mblf+UoCQmpRCzBcgKZSfDXY=
+
+Name: images/warning-icon-16x16.png
+SHA-256-Digest: 6c1kZD6VxKul4Bv5tQcDL+GjkU+1q7tD7Ht6V7DgVRM=
+
+Name: edu/carleton/cas/resources/NetworkIFManagerInterface.class
+SHA-256-Digest: mSkW5MGXm5NNLAMzIvbF1XfLZYAVljXWwNnTBxTq45I=
+
+Name: edu/carleton/cas/resources/HardwareAndSoftwareMonitor$ContextServl
+ et.class
+SHA-256-Digest: Mkhl4mci/PO1CI1GquGGgVX+aVO04LlkgJ2BR1MfjyI=
+
+Name: jetty-quickstart-10.0.24.jar
+SHA-256-Digest: IKljUWqM5jV/5oyu3dq2RCpewnHgZu1hHEd8JIZNk6A=
+
+Name: edu/carleton/cas/background/ArchiveSentinel.class
+SHA-256-Digest: +tARkfjW8Q72u/XQmEC+KX6U2DtRNsuA9mkGJn6Bzys=
+
+Name: edu/carleton/cas/reporting/ReportManager$Condition.class
+SHA-256-Digest: GlxXShhZgSSJgvweBNiYgHHRr3ygmW6fUoLV7jGAWRE=
+
+Name: se/unlogic/eagledns/zoneproviders/db/beans/DBRecord.class
+SHA-256-Digest: ZXCxZN0qBdKHGXuwB3jDEOhd6WkRoAX4zcU+/xHDjXg=
+
+Name: edu/carleton/cas/ui/WebApp$3.class
+SHA-256-Digest: Xw5117jutBZ/j+dO68+5pYmaCgYJpTtMo7VOIY0ygo0=
+
+Name: org/eclipse/jdt/internal/jarinjarloader/JIJConstants.class
+SHA-256-Digest: sya6ZMe37b1NQS0Scwxo+A19xO5P5QCoOuEsBJnb9GU=
+
+Name: edu/carleton/cas/security/JarVerifier.class
+SHA-256-Digest: +UfW8ql6F7A9I2x5RKlOvjx0hhqA4BorGWgUC+0EhrY=
+
+Name: edu/carleton/cas/utility/PatternConstants.class
+SHA-256-Digest: GHkYjX1fUv8HW9a1jiw3sjM7ntzBtdz/pHmzC9kNXtA=
+
+Name: oshi-core-6.8.3.jar
+SHA-256-Digest: Y1Eh/3tpr3eY67wLRdJEbwqwSHfBe1QrCGCatI1Aj4g=
+
+Name: websocket-javax-server-10.0.24.jar
+SHA-256-Digest: 2SdYjRnU+3E4hvnvY8h0Amf0fAf+JZlqB89rEIvHvFA=
+
+Name: edu/carleton/cas/utility/JpegMovieMaker.class
+SHA-256-Digest: h7gW0W9i541ylcS5Cy9zD3Wzd3NKhhMUgFuXw9BFjLk=
+
+Name: edu/carleton/cas/jetty/embedded/AgreementServlet$AgreementTimer.cl
+ ass
+SHA-256-Digest: w4I29USK8f9Q+cqP029jU70mf0QWRYpKK73MSMl4dmo=
+
+Name: images/error-icon-64x64.png
+SHA-256-Digest: A6+HSIZfQbNLHjUk6LY5XHJecDq/vo3A66KUd1RsBSE=
+
+Name: se/unlogic/eagledns/zoneproviders/file/FileZoneProvider.class
+SHA-256-Digest: ITHrHb6xyYWYhbjhgj+k9sGEbAq/OI/Nr/Nns7FW8Zc=
+
+Name: log4j-api-2.23.1.jar
+SHA-256-Digest: ROA+j73DipIX4r9HDdu7eDsGq2POpbNeQUR7B7KA6Oo=
+
+Name: edu/carleton/cas/jetty/embedded/ProgressIndicator.class
+SHA-256-Digest: bUkCKEDSDOOutejEfyuX6q5SRRPsR9p19htFxDQIl6s=
+
+Name: edu/carleton/cas/utility/ShowProperties.class
+SHA-256-Digest: hhhGR/3M/4ARTiR2bmvobD7swAworRCVK2WMeGBAe4M=
+
+Name: commons-net-3.7.2.jar
+SHA-256-Digest: 65WtmiloXB8iryljOBUu4MhWzzNExKfRMVORTO7ymhE=
+
+Name: edu/carleton/cas/background/timers/TimerService.class
+SHA-256-Digest: Es26UDSrlzm4FF+Y3nRu/7cJEQog5VWgDt1EUaB7o7I=
+
+Name: se/unlogic/eagledns/plugins/zonereplicator/ReplicationLoginHandler
+ .class
+SHA-256-Digest: IETV3VWnf15HK/nkGhTRjuk5DDee2CzWcLnvDGJFhf8=
+
+Name: slf4j-simple-1.7.29.jar
+SHA-256-Digest: kKctz5PIIwtotE2H9cco2fxERO2a/FehXNIVUjoapVs=
+
+Name: edu/carleton/cas/jetty/embedded/QuitServlet.class
+SHA-256-Digest: UwIptrVd8/871agP1TaD0Z/UOAqS475lXNFS61S2cos=
+
+Name: edu/carleton/cas/messaging/handlers/ServerMessageHandler.class
+SHA-256-Digest: d0ZYXutrxatCWmOzfqQJabAgXiTGWvOCNjzlbEia7+k=
+
+Name: se/unlogic/eagledns/plugins/remotemanagement/EagleManager.class
+SHA-256-Digest: Tsm/HOeF6Ybn94354tby+LEYkNnpboVwPT8Ob96zOyo=
+
+Name: edu/carleton/cas/jetty/embedded/ExamServlet$1.class
+SHA-256-Digest: lSfK2RzJomQE7tWyQbZyRgNQqI/ysQsW5StUwK4A64o=
+
+Name: edu/carleton/cas/background/KeepAliveSentinel$ReportTask.class
+SHA-256-Digest: 4BbUl2aNPhJPzDvJvw+yzfYoN92JesuB+Ayeuz1RoSo=
+
+Name: edu/carleton/cas/jetty/embedded/ServletProcessor$ServerCheckServle
+ t.class
+SHA-256-Digest: +cgZsdTCD1CuOtfQ9mO1pzNJuUxvBcNUWCoWUw8cIBo=
+
+Name: slf4j-api-2.0.17.jar
+SHA-256-Digest: L+/+FNj+zaEed5V6XpcUQpREcIvcPFpTJP/57+D1dfc=
+
+Name: edu/carleton/cas/ui/WebAlert$4.class
+SHA-256-Digest: jLixTtPEusbQMBKc0ND8OUOHKg4FI7b6Ujs25cSKwfo=
+
+Name: edu/carleton/cas/reporting/ReportManager$FileProcessor.class
+SHA-256-Digest: IWJiL/NH7N5uo1P8WdYesFxIY9NEaeDTI7rbALPdMWE=
+
+Name: edu/carleton/cas/utility/GenericWindowsRegistry.class
+SHA-256-Digest: YqTNBCggQe0UURzmjPFoYcRdFinML08o4FXwAm5iR2s=
+
+Name: edu/carleton/cas/jetty/embedded/IDVerificationServlet$IDTimer.clas
+ s
+SHA-256-Digest: yQp0A33FnU2fqK2j8hwMVtZE347Jc3awtN6P5ao0cPI=
+
+Name: images/error-icon-16x16.png
+SHA-256-Digest: XD3WZL/moACPNyQ77hInd6jdXPtT2VKGHAAjlyb+zhA=
+
+Name: images/warning-icon-24x24.png
+SHA-256-Digest: yPtSEDU4mNKEbbGgnnqzFhPuEnTBWULn2FM7z6dGHsc=
+
+Name: edu/carleton/cas/messaging/handlers/AuthenticationFrequencyMessage
+ Handler.class
+SHA-256-Digest: FGcPf1MPy/JFYLS1LlNwuEHQJOnBJDg8g+EYtQmMNgc=
+
+Name: edu/carleton/cas/modules/foundation/JarClassLoader$JarFileInfo.cla
+ ss
+SHA-256-Digest: Iiq7ChCJGLWVGR298G25qLtCArfL9r0j7GUe3kXi0Kk=
+
+Name: edu/carleton/cas/resources/AbstractNetworkInterfaceManager.class
+SHA-256-Digest: /V/nsKdqAyFpLW2WoQfVMQ1AzrDavXWskISPuakE6dA=
+
+Name: images/social-sharing-icon-24x24.png
+SHA-256-Digest: 2mIsYuXUS+VwrQXFgebQQBmAWmXl2Ir90Tv89rL3GAQ=
+
+Name: edu/carleton/cas/modules/foundation/JarClassLoader$JarEntryInfo.cl
+ ass
+SHA-256-Digest: wiyhpWql5uixppd7ffB3f/Elb08AAmwnT+qvKKQ0B48=
+
+Name: edu/carleton/cas/resources/HardwareAndSoftwareMonitor$NetworkingSe
+ rvlet.class
+SHA-256-Digest: so6w2g9nZc39WWHU3KLibcUoxinyOK9aMJ5uNElAmwk=
+
+Name: edu/carleton/cas/jetty/embedded/GazeServlet$FrequencyAndTotalScore
+ .class
+SHA-256-Digest: qUv8Q/HAvhV1mP8uu1kgCcmvDt1NJ0gBlT4hRmveDjM=
+
+Name: zones/tfhub.dev
+SHA-256-Digest: lNRWMiCWjR03MiU5RTzutMS0oQS2/MaEd3M/1TvcLOs=
+
+Name: com/cogerent/application/WebApp$3.class
+SHA-256-Digest: sLKM7LqbE+d6jLmPz3V5ujZ2hJTXoJoictf5AY3EizY=
+
+Name: edu/carleton/cas/security/CryptoUtils.class
+SHA-256-Digest: ITKtQ/ItUYi3H8IDTrjZFEvpFfLR5KhUYD+YigCsmJ0=
+
+Name: edu/carleton/cas/jetty/embedded/LoginServlet.class
+SHA-256-Digest: +niUZWoPG9HNychGOyDp7YoGhlrjOfDekMowloMuHdk=
+
+Name: com/cogerent/application/WebApp.class
+SHA-256-Digest: w+19asxSBz6u+dV803wTuPUX8y5qy6RvXsPu0osdtfU=
+
+Name: edu/carleton/cas/lookup/Whois.class
+SHA-256-Digest: Onw9FZkVAXDIWnKIV6rG+SJBpzv+LVZhE7XtuFEAatw=
+
+Name: edu/carleton/cas/jetty/embedded/PingServlet.class
+SHA-256-Digest: uLhq0tqDLh9pGFF2W1+1EO3X70KFlO5kP7F4nRgw22I=
+
+Name: images/social-sharing-icon-48x48.png
+SHA-256-Digest: cL8+BXp0RuDGXyeYe+sMo1qwIUjalqbbafRFo9+hYyc=
+
+Name: jakarta.ws.rs-api-2.1.5.jar
+SHA-256-Digest: uD3mjGaiFWXRRw47gUNo8n5XVq4PI0AGD/7Bx5Shpfo=
+
+Name: edu/carleton/cas/background/Archiver.class
+SHA-256-Digest: EhmszUEum9xqxWA5Lkzw+LFHWqXGSoT4C83QYlLa8Gg=
+
+Name: edu/carleton/cas/ui/DisappearingAlert$Alert.class
+SHA-256-Digest: zvL7tym+y3DvEMkshys/f1bFRBTyqcrDmyHkroPoRGA=
+
+Name: edu/carleton/cas/modules/foundation/JarClassLoader$1.class
+SHA-256-Digest: oQXI44r15v4XVVuH9L0WCcPaq3GpW3pGtPW3BRMOJc8=
+
+Name: edu/carleton/cas/resources/CommentFreeAllLinesOutputProcessor.clas
+ s
+SHA-256-Digest: JNcLzTWw5/O0rVYK01b8Ms5BCDqIRE54qoyGMATGgWo=
+
+Name: jna-5.17.0.jar
+SHA-256-Digest: +9+ij8z2ukVf8MqbR0vWvASmShg+WAFvpE8NOrAGxjY=
+
+Name: edu/carleton/cas/messaging/handlers/ReportMessageHandler.class
+SHA-256-Digest: o079v3ogfvAwU786QZVFrLddJ0WmaZuR++gDUCuio58=
+
+Name: edu/carleton/cas/jetty/embedded/UploadCheckServlet.class
+SHA-256-Digest: ZWzFmBQJCFp9pFLmmMBrclKVkmx9Zv9MQCY4X1esE8s=
+
+Name: edu/carleton/cas/messaging/MessageDecoder.class
+SHA-256-Digest: ESzdYauilBBJxZ1RH62jbRs/SBHnfdZzAzk1LJ12F64=
+
+Name: edu/carleton/cas/resources/VMCheck.class
+SHA-256-Digest: N1cad9jdSUyyHVeK24s1wu846qkAuOEJ7WaDx03MQzA=
+
+Name: edu/carleton/cas/resources/HardwareAndSoftwareMonitor$NetworkIFSta
+ tistics.class
+SHA-256-Digest: twCaxhGaybW1JDIVYpNSiIntEM0bVCybpUicLvTKiuE=
+
+Name: edu/carleton/cas/utility/ClientConfiguration.class
+SHA-256-Digest: sCf5xHJmdKlZVC6fty9UI5bzDuXWtZaMBJzEfGGoAUE=
+
+Name: app/pssuspend.exe
+SHA-256-Digest: l6PuYhirbxdoQXjIgCuboYskWtO0WC/SMPMNdrniWko=
+
+Name: edu/carleton/cas/resources/FileExplorer.class
+SHA-256-Digest: uYWWLYLdixVsePADpAq/vZ05Cndd7L1VVOrKycu4jX8=
+
+Name: jakarta.servlet-api-4.0.2.jar
+SHA-256-Digest: RaJmLo/frOFcxj0APoPs0f8mmJIz9RlLPFWlKdsgO/s=
+
+Name: edu/carleton/cas/resources/NetworkIFManagerForMacOS.class
+SHA-256-Digest: m0HovbbiFUHObIJhAvHoSxgm77E8xgyG798wOMnoork=
+
+Name: se/unlogic/eagledns/plugins/Plugin.class
+SHA-256-Digest: CVTFR1CHR5hbstUIYOhmXqriPD5FXL2uPSSaysjlGYs=
+
+Name: app/pssuspend64.exe
+SHA-256-Digest: L4/GgIPDgzE7NcqPe6rfQpEw37LXCKpAlzyKRzOty9M=
+
+Name: edu/carleton/cas/resources/BrowserHistoryReader$HistoryEntry.class
+SHA-256-Digest: GFZ7a/s9v5tTWNHViVi/OOZMxHkQ/rVktVtfOMB1ZJU=
+
+Name: zones/knotia.ca
+SHA-256-Digest: VQnBJfntpXNEJoT212+sGdPDkeWP5Go7dTSwAJE4vE0=
+
+Name: com/cogerent/application/WebApp$1.class
+SHA-256-Digest: oiGY/q1VDBqEsvsnri9MnK9tfakwFMVqwUnCi8ipKLM=
+
+Name: jetty-javax-websocket-api-1.1.2.jar
+SHA-256-Digest: SDNcZEzkRqa1hZk0XuJPKXp/5pYX+i4FOZvHYJj4Ebg=
+
+Name: edu/carleton/cas/jetty/embedded/TerminateServlet.class
+SHA-256-Digest: 93y33h7S8/7Iw0hEXY4Y0QJFszKfo8xOXFO+ZP9KAbM=
+
+Name: edu/carleton/cas/jetty/embedded/EmbeddedServlet.class
+SHA-256-Digest: 4RbWfW8s0CuKPgFxtEJTCB6EGwag75uJQlIcj0UAFco=
+
+Name: edu/carleton/cas/resources/AbstractResourceMonitor.class
+SHA-256-Digest: 7UusiNUpmsIPYL3cC8XqbsC7EBee1LTYl/ErjtnMo7g=
+
+Name: edu/carleton/cas/jetty/embedded/ServletRouter.class
+SHA-256-Digest: wtGYM7lUHpbqa/CWFqY1eG/O2uwgjzH72EPRXz+Bn8U=
+
+Name: edu/carleton/cas/utility/VMDetector$1.class
+SHA-256-Digest: Y8gQtojgUzy/AHexy7bmVhlbQl2kmxwMtnaKy8b1pSI=
+
+Name: META-INF/notice.txt
+SHA-256-Digest: 421MosklFbXEjBS1UypMId419oAHiShc80Gg1a9364Y=
+
+Name: edu/carleton/cas/background/Harvester$2.class
+SHA-256-Digest: pLscBBm6spp2HYqWeGNWZX5V99QMnN+dtWm6ZHIvOiY=
+
+Name: edu/carleton/cas/ui/WebApp$1.class
+SHA-256-Digest: oN3rO0DDhUhP/WaBAkmr4sWtRU0stdXOP/PBTVBeg80=
+
+Name: app/pskill.exe
+SHA-256-Digest: m22lDW3fykTdvuZB2exOFIEZILYS6hWZ4EkUIudGmDQ=
+
+Name: CoMaS-Launcher-Base-0.7.15.jar
+SHA-256-Digest: uooq2R07DqMTBTHeYa0i42On1o2Odnf5MZ+Z1GVkT+4=
+
+Name: edu/carleton/cas/jetty/embedded/ExamQuestionServlet.class
+SHA-256-Digest: rWhCEYWaJKMNwkviGG//2YIj0JF5NwuqvjvSI3X+GxQ=
+
+Name: gson-2.8.6.jar
+SHA-256-Digest: eaFN+9C2gtdVwkcvwbyxHVVK9Edrfz4K8hFui5/iTjI=
+
+Name: edu/carleton/cas/resources/NetworkIFManagerForWindows.class
+SHA-256-Digest: fb+/J7JzNJcwaj7mBOPshpBDksJ/3MYE2QmcUwtPyAI=
+
+Name: edu/carleton/cas/utility/Sleeper.class
+SHA-256-Digest: UzvJ4Wy7rgVZQHW8sdsUYh0XRvp+uFPfXAU125lJ6ZE=
+
+Name: edu/carleton/cas/background/StateDistributor.class
+SHA-256-Digest: yWH9xK2SBO99h6BWOPgXNTXCndL0rNF+Vj5CuxV598M=
+
+Name: se/unlogic/eagledns/EagleDNS.class
+SHA-256-Digest: LUyEp52PNd6YtDejGyHgSB3d1MHdws/BKZGWkOcaCdY=
+
+Name: zones/cloudflare.com
+SHA-256-Digest: kNvJTpZaSfffdWPWwdxb3yeFKzfKZpRPoSaWV1+/LYc=
+
+Name: org/encryptor4j/factory/AESKeyFactory.class
+SHA-256-Digest: 7ny6D+LJbLbBHFDB+ZqvRyW3uTrk4Ujhzv5Ga5UzkUU=
+
+Name: edu/carleton/cas/resources/UnixFileTask.class
+SHA-256-Digest: i1/zCxu+imEMEXmEWZhS6RISRBkt9YZtyy9Pc47std4=
+
+Name: org/eclipse/jdt/internal/jarinjarloader/JarRsrcLoader$ManifestInfo
+ .class
+SHA-256-Digest: wz6+HJ5fko1yxhuId/1NIyhnsYPQ7w0LlCRcFbEE8Yw=
+
+Name: com/cogerent/application/WebApp$2.class
+SHA-256-Digest: jfTlQIwLLe7smtENMNWLflksEWfFaK3yAchSdmAmh1k=
+
+Name: edu/carleton/cas/resources/HardwareAndSoftwareMonitor$OSProcessAct
+ ion.class
+SHA-256-Digest: 24wNKiUg9dOuaVLv+32pIXfdM+mb8bFxkUL6YmnKe20=
+
+Name: edu/carleton/cas/background/ArchiveSentinel$1.class
+SHA-256-Digest: m8LqMdHXeIifmtQ6nMr7Yv+XQSRqn7Y9xLXj5c8pE/U=
+
+Name: jetty-util-10.0.24.jar
+SHA-256-Digest: xJeQhrDXEm1GOryCOQgSbXmMnewdsKG/v8y7peMmJD4=
+
+Name: zones/casso.ca
+SHA-256-Digest: 9bkEDAmVxpgr8AHvlT0ynPnXlcvGG+WfPdbx3D1TPYg=
+
+Name: edu/carleton/cas/resources/IpV4ROutputProcessor.class
+SHA-256-Digest: BTALSgfiAFe279G1SSsU7IT3/QrtRxW/oUnZv0Jshbw=
+
+Name: comas.ini
+SHA-256-Digest: 6zbaH/igme/QIqf7xBrhyUc8vI7iEByooeIkZMt92Eo=
+
+Name: edu/carleton/cas/security/StreamCryptoUtils.class
+SHA-256-Digest: 2xecsaa3+cxqPvJJ6fVYEN6pBSHGgvZLv1c3oS+anwk=
+
