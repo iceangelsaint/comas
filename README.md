@@ -58,6 +58,6 @@ Funny that they would encrypt the file but have ZERO obfuscation, especially for
     
     -   Checks current websites/connections the desktop is making requests to, and checks for other devices on the local network. Privacy concern
         
--   System inventory/reporting. It gathers hardware, memory, networking, displays, graphics cards, file systems, running apps, processes, and desktop windows.
+-   System inventory/reporting. It gathers hardware, memory, networking, displays, graphics cards, file systems, running apps, processes, and desktop windows. Also knows if you're running inside a VM.
     
-    -   basic system info
+    -   basic system info and having VM detection is probably standard.
