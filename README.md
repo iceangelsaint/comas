@@ -22,7 +22,7 @@ From the [Carleton Website](https://carleton.ca/ses/online-exams/e-proctoring/):
 > undergone security and privacy reviews by Carleton’s Information
 > Security and Privacy Offices, respectively.
 
-Yet we will soon see how these are all violated.
+**none of these statements are true.**
 
 ## Reverse Engineering Process
 
