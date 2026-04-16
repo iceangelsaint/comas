@@ -2,7 +2,7 @@
 Decompiled version of CoMaS 0.8.75 - Invasive proctoring software that does not disclose what it does properly. For educational purposes only!
 
 ## Summary
-From the [CoMas manual](https://www.scribd.com/document/552618372/CoMaS-Student-Instructions-v-1-07):
+From the [CoMas FAQ](https://carleton.ca/ses/online-exams/e-proctoring/#sect4):
 
 > - It does not look at any files on your computer that is not open. 
 > - It does not record or look inside of any your files and documents (except for the files inside the CoMas folder which are generated on the desktop each time you log in) 
