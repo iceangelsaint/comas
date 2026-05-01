@@ -1,5 +1,5 @@
 # comas
-Decompiled version of CoMaS 0.8.75 - Invasive proctoring software that does not disclose what it does properly. For educational purposes only!
+Decompiled version of CoMaS 0.8.75. For educational purposes only!
 
 ## Summary
 From the [CoMas FAQ](https://carleton.ca/ses/online-exams/e-proctoring/#sect4):
@@ -22,14 +22,14 @@ From the [Carleton Website](https://carleton.ca/ses/online-exams/e-proctoring/):
 > undergone security and privacy reviews by Carleton’s Information
 > Security and Privacy Offices, respectively.
 
-**none of these statements are true.**
+**These statements should be re-evaluated upon inspection of the code**
 
 ## Reverse Engineering Process
 
 CoMaS stores the client encrypted on disk.
 It decrypts it to a temp file before launch, and deletes itself when CoMas is exited. By running CoMas, and observing the temp folder seeing which files were created, I was able to find the decrypted version. 
 
-Funny that they would encrypt the file but have ZERO obfuscation, especially for Java apps where bytecode is trivially easy to decompile. Whole process to obtain decompiled version was trivial, taking 10 minutes total. #devops
+From there, decompilation from Java bytecode is trivial and can be done with readily available tools like Fernflower.
 
 ## Notable Behaviours
 
